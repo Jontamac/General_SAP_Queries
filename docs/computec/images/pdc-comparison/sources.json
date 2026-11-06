@@ -1,0 +1,101 @@
+{
+  "reviewed": "2026-10-22",
+  "owner": "CompuTec; vendor screenshots reproduced for product comparison",
+  "modified": false,
+  "latestPubliclyDocumentedPdc": {
+    "version": "4.2610.1",
+    "releaseDate": "2026-10-07",
+    "source": "https://learn.computec.one/docs/pdc/releases/pdc/",
+    "verification": "Direct live HTML and vendor GitHub Markdown checked; search-index copies lagged."
+  },
+  "images": [
+    {
+      "file": "classic-task-panel.webp",
+      "source": "https://learn.computec.one/docs/pdc/user-guide/task-activities/overview/",
+      "asset": "https://learn.computec.one/assets/images/task-tile-6d6a88875adf54116220924a22507d2e.webp",
+      "scope": "Established terminal layout; not version-specific or verified as 3.10.18.2/4.2610.1.",
+      "bytes": 42840,
+      "sha256": "22186132afe118823ece1a15195e56b7e6f8a08df77bf281d7f580cbf66607f2"
+    },
+    {
+      "file": "pdc-udf-issue.png",
+      "source": "https://learn.computec.one/docs/pdc/administrator-guide/setting-up-the-application/pdc-settings/display-udfs/",
+      "asset": "https://learn.computec.one/assets/images/issue%20screen-6461bae615a4c1690a6188c7a3c79b13.png",
+      "scope": "Vendor UDF issue-screen example. Exact application build not identified.",
+      "bytes": 96639,
+      "sha256": "4df60890ba84805cc68f8efd0c178a1c4068368648eb77335bf30ce3751253b8"
+    },
+    {
+      "file": "web-registration-actions.png",
+      "source": "https://learn.computec.one/docs/appengine/appengine-users-guide/analytical-page/analytics-actions/",
+      "asset": "https://learn.computec.one/assets/images/aa-config-action-in-src-ap-2-bd698d7518596b9f359c685176cc306a.png",
+      "scope": "AppEngine web Analytics action menu; not the opened PDC registration form.",
+      "bytes": 174601,
+      "sha256": "49dd824bfc3638ce22b9afd7fa5cbf6e8c62fea4426ca65c81a2e04a92b4def8"
+    },
+    {
+      "file": "mo360-assignment-board.webp",
+      "source": "https://www.computec.one/solutions/computec/pdc",
+      "asset": "https://www.computec.one/assets/pdc-features-task-mgmt-1.DRNkLicy_mQON8.webp",
+      "scope": "Separate MO360 plugin. Not proof of PDC 4 inclusion, license entitlement, or a new 4.x feature.",
+      "bytes": 49318,
+      "sha256": "f2cd488b873a8969e34b86430cc58721992860d17d49e97296c7099fc99f2d26"
+    },
+    {
+      "file": "terminal-task-panel-wide.webp",
+      "asset": "https://learn.computec.one/assets/images/example-new-task-ea53dc1fd94b2f53faaa85f553f3167c.webp",
+      "source": "https://learn.computec.one/docs/pdc/user-guide/task-activities/overview/",
+      "scope": "Terminal task-panel illustration with historical sample dates. Application build unspecified; not verified as 4.x.",
+      "bytes": 29352,
+      "sha256": "bd031f49f50b1910125e57f711bec4fbe3a6d13fc2ee7c9fba1ad15a6b9dda8f"
+    },
+    {
+      "file": "terminal-confirmation.webp",
+      "asset": "https://learn.computec.one/assets/images/confirmation-panel-d3df70e7bb8aadc18bf3edffc36c2942.webp",
+      "source": "https://learn.computec.one/docs/pdc/user-guide/task-activities/overview/",
+      "scope": "Terminal confirmation-panel illustration with historical sample dates. Application build unspecified; not verified as 4.x.",
+      "bytes": 62176,
+      "sha256": "45e3fe255a02f04e2c64d6b885a064f846a16d1c7f62de3abc3c02a5b7723719"
+    },
+    {
+      "file": "terminal-quick-time-booking.webp",
+      "asset": "https://learn.computec.one/assets/images/quick-work-registration-ba3ec410c5132cab6d3370d2aca49856.webp",
+      "source": "https://learn.computec.one/docs/pdc/user-guide/task-activities/quick-time-booking/",
+      "scope": "Terminal Quick Work Registration illustration. Application build unspecified; not verified as 4.x.",
+      "bytes": 44686,
+      "sha256": "aed572902f077ee83aa3679ca606957d55ce2da3f1b20cb3807ebde7e1ebc342"
+    },
+    {
+      "file": "terminal-item-selection-udf.png",
+      "asset": "https://learn.computec.one/assets/images/item%20selectio%20screen-dda1f9ce3acf3970d00d8b04ce063e73.png",
+      "source": "https://learn.computec.one/docs/pdc/administrator-guide/setting-up-the-application/pdc-settings/display-udfs/",
+      "scope": "Terminal item selection from UDF guide linked by PDC 4 release notes. Exact application build unspecified.",
+      "bytes": 28526,
+      "sha256": "8dbb14e00be1f070d88a9c814628862d3465f6c26d01a9e1402e4b2e6c184032"
+    },
+    {
+      "file": "weighing-live-scale.webp",
+      "asset": "https://learn.computec.one/assets/images/step-3-cab868bbfe03f95e2cd6a6611e227737.webp",
+      "source": "https://learn.computec.one/docs/pdc/user-guide/customization/optional-functions/weight-scale-module/overview/",
+      "bytes": 51264,
+      "sha256": "a08a12a1d187997ae48d0080573cab0a79afce952be9673600e8e4cb428cc06b",
+      "scope": "Published weighing guide illustration with historical sample data. Exact build unspecified; not proof of PDC 4.x feature parity."
+    },
+    {
+      "file": "weighing-batch-selection.webp",
+      "asset": "https://learn.computec.one/assets/images/step-2-9845c2841db4497cad7b33f1f143d0cb.webp",
+      "source": "https://learn.computec.one/docs/pdc/user-guide/customization/optional-functions/weight-scale-module/overview/",
+      "bytes": 108380,
+      "sha256": "455c91e6b1842b57f8b121779a96b213e447c3bde72632687538de59ca8697ac",
+      "scope": "Published weighing guide illustration with historical sample data. Exact build unspecified; not proof of PDC 4.x feature parity."
+    },
+    {
+      "file": "weighing-management-board.webp",
+      "asset": "https://learn.computec.one/assets/images/board-56ae5c73b7e3ce99fe858ed484f1a217.webp",
+      "source": "https://learn.computec.one/docs/pdc/user-guide/customization/optional-functions/weight-scale-module/weight-management-board/",
+      "bytes": 44830,
+      "sha256": "2d710fd7d62432d2f45d66ba91c8ce5a7af2082ff90ae17bd58aa4cb12e3ee17",
+      "scope": "Published weighing guide illustration with historical sample data. Exact build unspecified; not proof of PDC 4.x feature parity."
+    }
+  ]
+}

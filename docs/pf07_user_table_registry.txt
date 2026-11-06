@@ -1,0 +1,752 @@
+Table Name	Description	Table number	Object Type	Used in Object	Log Table	Archivable	Archive Date	Display Menu	Apply Authorisation	
+BATCH_HISTORY	BATCH History Data	619	0			N		Y	N	
+BFEXTDBVERSION	Extension DB versions	418	0			N		Y	N	
+BOY_40_CONFIG	Validation System	319	3	BOY_40_CONFIG	ABOY_40_CONFIG	N		Y	N	
+BOY_40_CONFIGLINES	Validation System Lines	320	4	BOY_40_CONFIG	ABOY_40_CONFIGLINES	N		Y	N	
+BOY_41_FUNCTIONS	Universal Functions	343	1	BOY_41_FUNCTIONS	ABOY_41_FUNCTIONS	N		Y	N	
+BOY_41_FUNC_L01	Universal Function - Line 01	346	2	BOY_41_FUNCTIONS	ABOY_41_FUNC_L01	N		Y	N	
+BOY_41_FUNC_L02	Universal Function - Line 02	347	2	BOY_41_FUNCTIONS	ABOY_41_FUNC_L02	N		Y	N	
+BOY_41_FUNC_L03	Universal Function - Line 03	348	2	BOY_41_FUNCTIONS	ABOY_41_FUNC_L03	N		Y	N	
+BOY_41_FUNC_L04	Universal Function - Line 04	349	2	BOY_41_FUNCTIONS	ABOY_41_FUNC_L04	N		Y	N	
+BOY_41_FUNC_L05	Universal Function - Line 05	350	2	BOY_41_FUNCTIONS	ABOY_41_FUNC_L05	N		Y	N	
+BOY_41_FUNC_L06	Universal Function - Line 06	351	2	BOY_41_FUNCTIONS	ABOY_41_FUNC_L06	N		Y	N	
+BOY_41_FUNC_L07	Universal Function - Line 07	352	2	BOY_41_FUNCTIONS	ABOY_41_FUNC_L07	N		Y	N	
+BOY_41_FUNC_L08	Universal Function - Line 08	353	2	BOY_41_FUNCTIONS	ABOY_41_FUNC_L08	N		Y	N	
+BOY_41_FUNC_L09	Universal Function - Line 09	354	2	BOY_41_FUNCTIONS	ABOY_41_FUNC_L09	N		Y	N	
+BOY_41_FUNC_L10	Universal Function - Line 10	355	2	BOY_41_FUNCTIONS	ABOY_41_FUNC_L10	N		Y	N	
+BOY_41_UFBATCHES	UF Batch	345	1	BOY_41_UFBATCH	ABOY_41_UFBATCHES	N		Y	N	
+BOY_41_UFSCHEDULES	UF Schedules	344	3	BOY_41_UFSCHEDULE		N		Y	N	
+BOY_60_ANM	Add New Menus Table	449	0			N		Y	N	
+BOY_60_EEM	Edit Existing Menus Table	450	0			N		Y	N	
+BOY_61_TABCONTROL	TabControl	419	0			N		Y	N	
+BOY_81_CONDITION	B1UP Manager: Conditions	420	0			N		Y	N	
+BOY_81_DMSH	Schedule Header	421	3	BOY_81_DMSCHE		N		Y	N	
+BOY_81_DMSP	Schedule Properties	422	4	BOY_81_DMSCHE		N		Y	N	
+BOY_81_DMSU	Schedule Udfs	423	4	BOY_81_DMSCHE		N		Y	N	
+BOY_81_FORMTYPES	B1UP Manager: FormTypes	424	0			N		Y	N	
+BOY_85_ACTION	B1Print: ReportActions	363	1	BOY_85_REPORTACTION	ABOY_85_ACTION	N		Y	N	
+BOY_85_ACTION_L01	B1Print: ReportActions Line 01	364	2	BOY_85_REPORTACTION	ABOY_85_ACTION_L01	N		Y	N	
+BOY_85_ACTION_L02	B1Print: ReportActions Line 02	365	2	BOY_85_REPORTACTION	ABOY_85_ACTION_L02	N		Y	N	
+BOY_85_ACTION_L03	B1Print: ReportActions Line 03	366	2	BOY_85_REPORTACTION	ABOY_85_ACTION_L03	N		Y	N	
+BOY_85_ACTION_L04	B1Print: ReportActions Line 04	367	2	BOY_85_REPORTACTION	ABOY_85_ACTION_L04	N		Y	N	
+BOY_85_ACTION_L05	B1Print: ReportActions Line 05	368	2	BOY_85_REPORTACTION	ABOY_85_ACTION_L05	N		Y	N	
+BOY_85_ACTION_L06	B1Print: ReportActions Line 06	369	2	BOY_85_REPORTACTION	ABOY_85_ACTION_L06	N		Y	N	
+BOY_85_ACTION_L07	B1Print: ReportActions Line 07	370	2	BOY_85_REPORTACTION	ABOY_85_ACTION_L07	N		Y	N	
+BOY_85_ACTION_L08	B1Print: ReportActions Line 08	371	2	BOY_85_REPORTACTION	ABOY_85_ACTION_L08	N		Y	N	
+BOY_85_ACTION_L09	B1Print: ReportActions Line 09	372	2	BOY_85_REPORTACTION	ABOY_85_ACTION_L09	N		Y	N	
+BOY_85_ACTION_L10	B1Print: ReportActions Line 10	373	2	BOY_85_REPORTACTION	ABOY_85_ACTION_L10	N		Y	N	
+BOY_85_BASECONFIG	B1Print: BaseConfig	356	0			N		Y	N	
+BOY_85_BP_SEL	B1Print: BP Selection	375	0			N		Y	N	
+BOY_85_BP_SELORDER	B1Print: BP Selection Order	374	0			N		Y	N	
+BOY_85_CUSTOMPRINT	B1Print: Custom Doc Print	383	1	BOY_85_CUSTOMPRINT	ABOY_85_CSTMPRINT	N		Y	N	
+BOY_85_DEL_LOG	Delivery Log	380	0			N		Y	N	
+BOY_85_DYN_SYN	B1Print: Dynamic syntax	385	0			N		Y	N	
+BOY_85_EMAIL_CAT	B1Print: Email Category	379	0			N		Y	N	
+BOY_85_ERR_LOG	Error Log	381	0			N		Y	N	
+BOY_85_EXCH_CONF	B1Print: Exchange Config	377	0			N		Y	N	
+BOY_85_EXC_CRED	B1Print: Personal Exchange	378	0			N		Y	N	
+BOY_85_REP_CATEGORY	B1Print: Category	361	0			N		Y	N	
+BOY_85_REP_CONFIG	B1Print: Report Config	357	3	BOY_85_REPORTCONFIG	ABOY_85_REP_CONFIG	N		Y	N	
+BOY_85_REP_CONFIGL	B1Print: Report Config Lines	358	4	BOY_85_REPORTCONFIG	ABOY_85_REP_CONFIGL	N		Y	N	
+BOY_85_REP_DEF	B1Print: Report Def.	359	1	BOY_85_REPORTDEF	ABOY_85_REP_DEF	N		Y	N	
+BOY_85_REP_DEF_L	B1Print: Report Def. Param	360	2	BOY_85_REPORTDEF	ABOY_85_REP_DEF_L	N		Y	N	
+BOY_85_REP_TYPE	B1Print: Type	362	0			N		Y	N	
+BOY_85_SCHEDULES	B1Print: Schedules	384	3	BOY_85_SCHEDULE		N		Y	N	
+BOY_85_SMTP_CONF	B1Print: SMTP Configuration	376	0			N		Y	N	
+BOY_99_MBC	MultiButton	323	1	BOY_99_MBC	ABOY_99_MBC	N		Y	N	
+BOY_99_MBCL	MultiButton Line	324	2	BOY_99_MBC	ABOY_99_MBCL	N		Y	N	
+BOY_A2_READONLY	Read Only Configurations	342	0			N		Y	N	
+BOY_ACCOUNT_BANK	Account Balance Invoice table	382	0			N		Y	N	
+BOY_B1UP_ADDDBINFO	B1UP: DB Info	299	1	BOY_B1UP_ADDDBINFO	ABOY_B1UP_ADDDBINFO	N		Y	N	
+BOY_B1UP_AUE	B1UP: Automatic update	294	0			N		Y	N	
+BOY_B1UP_CATE	Config categories	300	1	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE	N		Y	N	
+BOY_B1UP_CATE_L01	Config categories - Line 01	301	2	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE_L01	N		Y	N	
+BOY_B1UP_CATE_L02	Config categories - Line 02	302	2	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE_L02	N		Y	N	
+BOY_B1UP_CATE_L03	Config categories - Line 03	303	2	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE_L03	N		Y	N	
+BOY_B1UP_CATE_L04	Config categories - Line 04	304	2	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE_L04	N		Y	N	
+BOY_B1UP_CATE_L05	Config categories - Line 05	305	2	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE_L05	N		Y	N	
+BOY_B1UP_CATE_L06	Config categories - Line 06	306	2	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE_L06	N		Y	N	
+BOY_B1UP_CATE_L07	Config categories - Line 07	307	2	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE_L07	N		Y	N	
+BOY_B1UP_CATE_L08	Config categories - Line 08	308	2	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE_L08	N		Y	N	
+BOY_B1UP_CATE_L09	Config categories - Line 09	309	2	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE_L09	N		Y	N	
+BOY_B1UP_CATE_L10	Config categories - Line 10	310	2	BOY_B1UP_CONFIGCATE	ABOY_B1UP_CATE_L10	N		Y	N	
+BOY_B1UP_CONFIG	B1UP: Config	293	0			N		Y	N	
+BOY_B1UP_DOTNETCODE	B1UP: DotNet code	298	1	BOY_B1UP_DOTNETCODE	ABOY_B1UP_DOTNETCO	N		Y	N	
+BOY_B1UP_KANBAN	Kanban Board	603	1	BOY_B1UP_KANBAN		N		Y	N	
+BOY_B1UP_TRANSHEAD	B1UP: translation Header	317	1	BOY_B1UP_TRANS		N		Y	N	
+BOY_B1UP_TRANSLINE	B1UP: translation Lines	318	2	BOY_B1UP_TRANS		N		Y	N	
+BOY_B1UP_USERGROUP	B1UP: UserGroup	296	1	BOY_B1UP_USERGROUP	ABOY_B1UP_USERGROUP	N		Y	N	
+BOY_B1UP_USERGROUPL	B1UP: UserGroup Line	297	2	BOY_B1UP_USERGROUP	BOY_B1UP_USRGRUPL	N		Y	N	
+BOY_B1UP_WEBTCRE	WebClient Tile Creator	635	1	BOY_B1UP_WEBTILECRE	ABOY_B1UP_WEBTCRE	N		Y	N	
+BOY_B1UP_WEBTCREL	WebClient Tile CreatorL	636	2	BOY_B1UP_WEBTILECRE	ABOY_B1UP_WEBTCREL	N		Y	N	
+BOY_BUTTONSL	FunctionButtons Lines	322	2	BOY_BUTTON_UDO_EX	ABOY_BUTTONSL	N		Y	N	
+BOY_BUTTONS_DL	Data launcher	325	0			N		Y	N	
+BOY_BUTTONS_DLAF	Data Launcher Allo. Func	327	0			N		Y	N	
+BOY_BUTTONS_DLF	Data Launcher Functions	326	0			N		Y	N	
+BOY_BUTTONS_EX	FunctionButtons	321	1	BOY_BUTTON_UDO_EX	ABOY_BUTTONS_EX	N		Y	N	
+BOY_E7_CALCONFIG	B1 Dashboard Calendar Config	604	1	BOY_E7_CALENDAR		N		Y	N	
+BOY_E7_CALFILTER	B1 Dashboard Calendar Filter	606	1	BOY_E7_CAL_Filter		N		Y	N	
+BOY_E7_CALSOURCE	B1 Dashboard Calendar Source	605	1	BOY_E7_CAL_SOURCE		N		Y	N	
+BOY_E7_CONFIG	B1 Dashboard: Config	630	0			N		Y	N	
+BOY_E7_DASHBOARD	B1 Dashboard: View	632	0			N		Y	N	
+BOY_E7_DEFDEL	B1 Dashboard: Dashboard del.	315	0			N		Y	N	
+BOY_E7_DEVDASH	B1 Dashboard: Dashboard	314	0			N		Y	N	
+BOY_E7_MYUPDATES	My Recent Updates	625	0			N		Y	N	
+BOY_E7_PFLOW	Process Flow	626	1	BOY_E7_PFLOW		N		Y	N	
+BOY_E7_PFLOWC	Process Flow Connector	627	2	BOY_E7_PFLOW		N		Y	N	
+BOY_E7_PFLOWE	Process Flow Entry	628	2	BOY_E7_PFLOW		N		Y	N	
+BOY_E7_SCHEDULES	B1 Dashboard: Schedules	629	3	BOY_E7_SCHEDULE		N		Y	N	
+BOY_E7_SERVSET	B1UP: Server setup	316	0			N		Y	N	
+BOY_E7_USERSETTING	B1 Dashboard: User setting	631	0			N		Y	N	
+BOY_E7_WIDGET	B1 Dashboard: Widgets	634	0			N		Y	N	
+BOY_E7_WIDGETDATA	B1 Dashboard: Widget data	633	0			N		Y	N	
+BOY_EXCHANGE_CONFIG	Exchange Rate Configuration	341	0			N		Y	N	
+BOY_EXC_LOG	Exchange Rates ChangeLog	608	0			N		Y	N	
+BOY_HELP_ENTRY	Help system entry	340	0			N		Y	N	
+BOY_IPT	IPT: Header	328	1	BOY_IPT		N		Y	N	
+BOY_IPT_CONFIG	IPT: Config	333	0			N		Y	N	
+BOY_IPT_CUST	IPT: Custom Tabs	332	2	BOY_IPT		N		Y	N	
+BOY_IPT_SQLR	IPT: SQL Reports	331	2	BOY_IPT		N		Y	N	
+BOY_IPT_SYS	IPT: System Lines	329	2	BOY_IPT		N		Y	N	
+BOY_IPT_UDF	IPT: UDF Lines	330	2	BOY_IPT		N		Y	N	
+BOY_MANDATORY	Mandatory Fields: Header	334	1	BOY_MANDATORY	ABOY_MANDATORY	N		Y	N	
+BOY_MANDATORY_LINES	Mandatory Fields: Lines	335	2	BOY_MANDATORY	ABOY_MANDATORY_LINE	N		Y	N	
+BOY_PLUGINS	Boyum: Plugins	295	0			N		Y	N	
+BOY_SBO_AVERSIONS	Boyum: Addon Versions	290	0			N		Y	N	
+BOY_SBO_DBINFO	Boyum: DB Information	286	0			N		Y	N	
+BOY_SBO_EULA	Boyum: EULA	289	0			N		Y	N	
+BOY_SBO_EXTDATA	Boyum: Extended Data	311	0			N		Y	N	
+BOY_SBO_EXTEVT	Boyum: External events	313	0			N		Y	N	
+BOY_SBO_FEEDBACK	Boyum: Feedback	288	0			N		Y	N	
+BOY_SBO_LASTVALUE	Boyum: Last Value Items	291	0			N		Y	N	
+BOY_SBO_LICASSN	Boyum License Assn	283	0			N		Y	N	
+BOY_SBO_LICCONF	Boyum License Conf	285	0			N		Y	N	
+BOY_SBO_LICDATA	Boyum License Data	284	0			N		Y	N	
+BOY_SBO_PARTNER	Boyum: Partner Information	287	0			N		Y	N	
+BOY_SBO_QUERYCACHE	Boyum: Query converter	292	0			N		Y	N	
+BOY_SBO_SCALOG	Boyum: Server Component Log	602	0			N		Y	N	
+BOY_SBO_SCHEDULE	Boyum: Recurring Schedules	312	0			N		Y	N	
+BOY_TOOLBOX_ACBC	Code Bp Config	337	0			N		Y	N	
+BOY_TOOLBOX_ACIC	Code Imd Config	338	0			N		Y	N	
+BOY_TOOLBOX_AW_EX	Auto Filter Exclude List	607	0			N		Y	N	
+BOY_TOOLBOX_CONFIG	Toolbox Config	336	0			N		Y	N	
+BOY_TOOLBOX_UDW	Toolbox UDW	339	0			N		Y	N	
+BPCNTR	Payment Engine	425	0			N		Y	N	
+BPRSTRT	Payment Engine	426	0			N		Y	N	
+CON_COOP_BP_DETAILS	Co-op BP Details Table	644	0			N		Y	N	
+CON_COOP_RULES	Co-op Rule Table	620	0			N		Y	N	
+COOP_PRICING	Co-operative Pricing	452	0			N		Y	N	
+COOP_STATEMENT_DATE	Co-Op Statement Date	642	1	COOP_STATEMENT_DATE		N		Y	N	
+COSHH_CAUTIONRATING	COSHH Caution Ratings	468	0			N		Y	N	
+COSHH_HAZARD_GROUP	COSHH Hazard Group	469	0			N		Y	N	
+CT_AE_OPRP	AE Properties	478	1	CT_AE_Prop	CT_AE_APRP	N		Y	N	
+CT_AE_OWVS	AE Variants Sources	645	0			N		Y	N	
+CT_AE_OWVT	AE Variants	646	0			N		Y	N	
+CT_CW_OBTN	Catch Weight Batch Number	613	1	CT_CW_OBTN	ACT_CW_OBTN	N		Y	N	
+CT_CW_OBTR	Catch Weight Batch Transaction	614	1	CT_CW_OBTR	ACT_CW_OBTR	N		Y	N	
+CT_GEN_OUDO	CT_GEN_OUDO	427	0			N		Y	N	
+CT_LP_CONF	Configuration	428	3	CT_LP_CONF_JOURNAL	ACT_LP_CONF	N		Y	N	
+CT_LP_ETRG	Sets Event Triggers	429	3	CT_LP_ETRG_JOURNAL	ACT_LP_ETRG	N		Y	N	
+CT_LP_PRMP	Maps parameters	430	3	CT_LP_PRMP_JOURNAL	ACT_LP_PRMP	N		Y	N	
+CT_LP_RDCR	Report Document Custom Rules	431	3	CT_LP_RDCR_JOURNAL	ACT_LP_RDCR	N		Y	N	
+CT_LP_RDOR	Report Document Rules	432	3	CT_LP_RDOR_JOURNAL	ACT_LP_RDOR	N		Y	N	
+CT_LP_RPMP	Report Maps parameters	433	3	CT_LP_RPMP_JOURNAL	ACT_LP_RPMP	N		Y	N	
+CT_LP_RQRY	Request Queries	434	3	CT_LP_RQRY_JOURNAL	ACT_LP_RQRY	N		Y	N	
+CT_LP_TPLD	Template Definition	435	3	CT_LP_TPLD_JOURNAL	ACT_LP_TPLD	N		Y	N	
+CT_LP_TPLR	Template Rules	436	3	CT_LP_TPLR_JOURNAL	ACT_LP_TPLR	N		Y	N	
+CT_LP_TSTS	Name	437	3	CT_LP_TSTS_JOURNAL	ACT_LP_TSTS	N		Y	N	
+CT_PC_OCCF	Costing Configuration	249	1	CT_PC_OCCF	CT_PC_ACCF	N		Y	N	
+CT_PC_OCCT	Cost Category	253	1	CT_PC_OCCT	CT_PC_ACCT	N		Y	N	
+CT_PC_OLGR	Labour Group	254	1	CT_PC_OLGR	CT_PC_ALGR	N		Y	N	
+CT_PF_ABT1	Additional Batch: Properties	121	2	CT_PF_AdditonalBatch	CT_PF_AABT1	N		Y	N	
+CT_PF_ABT6	Additional Batch: Attachments	122	2	CT_PF_AdditonalBatch	CT_PF_AABT6	N		Y	N	
+CT_PF_ATR1	Opertion Time Rec Adj:Times	88	4	CT_PF_OperTRecAdj	CT_PF_AATR1	N		Y	N	
+CT_PF_ATR2	Opertion Time Rec Adj:Empl.	87	4	CT_PF_OperTRecAdj	CT_PF_AATR2	N		Y	N	
+CT_PF_ATR3	Opertion Time Rec Adj:Reasons	85	4	CT_PF_OperTRecAdj	CT_PF_AATR3	N		Y	N	
+CT_PF_BCS1	BulkChange:BOMs	547	2	CT_PF_BCScenario	CT_PF_ABCS1	N		Y	N	
+CT_PF_BCS11	BulkChange:FIProperties	550	2	CT_PF_BCScenario	CT_PF_ABCS11	N		Y	N	
+CT_PF_BCS12	BulkChange:FTRoutings	545	2	CT_PF_BCScenario	CT_PF_ABCS12	N		Y	N	
+CT_PF_BCS13	BulkChange:FTOperations	544	2	CT_PF_BCScenario	CT_PF_ABCS13	N		Y	N	
+CT_PF_BCS14	BulkChange:FTResources	546	2	CT_PF_BCScenario	CT_PF_ABCS14	N		Y	N	
+CT_PF_BCS15	BulkChange:FTItems	548	2	CT_PF_BCScenario	CT_PF_ABCS15	N		Y	N	
+CT_PF_BCS2	BulkChange:Items	543	2	CT_PF_BCScenario	CT_PF_ABCS2	N		Y	N	
+CT_PF_BCS3	BulkChange:Routings	541	2	CT_PF_BCScenario	CT_PF_ABCS3	N		Y	N	
+CT_PF_BCS4	BulkChange:Operations	540	2	CT_PF_BCScenario	CT_PF_ABCS4	N		Y	N	
+CT_PF_BCS5	BulkChange:Resources	542	2	CT_PF_BCScenario	CT_PF_ABCS5	N		Y	N	
+CT_PF_BOM1	BOM: Items	109	2	CT_PF_OBOMCode	CT_PF_ABOM1	N		Y	N	
+CT_PF_BOM11	BOM: Routings	127	2	CT_PF_OBOMCode	CT_PF_ABOM11	N		Y	N	
+CT_PF_BOM12	BOM: Operations	128	2	CT_PF_OBOMCode	CT_PF_ABOM12	N		Y	N	
+CT_PF_BOM13	BOM: Operation Properties	126	2	CT_PF_OBOMCode	CT_PF_ABOM13	N		Y	N	
+CT_PF_BOM14	BOM: Operation IN&OUT	117	2	CT_PF_OBOMCode	CT_PF_ABOM14	N		Y	N	
+CT_PF_BOM15	BOM: IN&OUT properties	108	2	CT_PF_OBOMCode	CT_PF_ABOM15	N		Y	N	
+CT_PF_BOM16	BOM: Operation Resources	129	2	CT_PF_OBOMCode	CT_PF_ABOM16	N		Y	N	
+CT_PF_BOM17	BOM: Opr Res Properties	124	2	CT_PF_OBOMCode	CT_PF_ABOM17	N		Y	N	
+CT_PF_BOM20	BOM: Ope Relations	125	2	CT_PF_OBOMCode	CT_PF_ABOM20	N		Y	N	
+CT_PF_BOM3	BOM: CoProducts	105	2	CT_PF_OBOMCode	CT_PF_ABOM3	N		Y	N	
+CT_PF_BOM4	BOM: Scrap	120	2	CT_PF_OBOMCode	CT_PF_ABOM4	N		Y	N	
+CT_PF_BOM5	BOM: Phantoms	110	2	CT_PF_OBOMCode	CT_PF_ABOM5	N		Y	N	
+CT_PF_BOM7	BOM: Attachments	106	2	CT_PF_OBOMCode	CT_PF_ABOM7	N		Y	N	
+CT_PF_BSSC	Supplier Score Card	257	1	CT_PF_SupplierSC	CT_PF_ASSC	N		Y	N	
+CT_PF_CAL1	Capacity Calendar: Resources	33	2	CT_PF_CapCalendar	CT_PF_ACAL1	N		Y	N	
+CT_PF_CAL2	Capacity Calendar: Periods	29	2	CT_PF_CapCalendar	CT_PF_ACAL2	N		Y	N	
+CT_PF_CBM1	Costed Bill of Mat.: Lines	549	2	CT_PF_CostedBom	CT_PF_ACBM1	N		Y	N	
+CT_PF_CMP1	Costs Comparison: Batch Sizes	39	2	CT_PF_CostsComp	CT_PF_ACMP1	N		Y	N	
+CT_PF_CONFIG	PF Configuration	149	1	CT_PF_Config	ACT_PF_CONFIG	N		Y	N	
+CT_PF_CPL1	Complaint: Reasons	240	4	CT_PF_Complaint	CT_PF_ACPL1	N		Y	N	
+CT_PF_CPL2	Complaint: Batches	234	4	CT_PF_Complaint	CT_PF_ACPL2	N		Y	N	
+CT_PF_CPL3	Complaint: Serial Numbers	251	4	CT_PF_Complaint	CT_PF_ACPL3	N		Y	N	
+CT_PF_CPL4	Complaint: Attachments	252	4	CT_PF_Complaint	CT_PF_ACPL4	N		Y	N	
+CT_PF_CTL1	Cal. Templ.: Work. Hours	116	2	CT_PF_CalTemplate	CT_PF_ACTL1	N		Y	N	
+CT_PF_CTL2	Cal. Templ.: Work. Hours Ex.	115	2	CT_PF_CalTemplate	CT_PF_ACTL2	N		Y	N	
+CT_PF_CTL3	Cal. Templ.: Holidays	114	2	CT_PF_CalTemplate	CT_PF_ACTL3	N		Y	N	
+CT_PF_DDA1	Draft Doc. Auth.: Items Codes	146	2	CT_PF_DraftDocAuthor	CT_PF_ADDA1	N		Y	N	
+CT_PF_DTM1	Down Time.:Reasons	145	4	CT_PF_DownTime	CT_PF_ADTM1	N		Y	N	
+CT_PF_ECL1	Emp. Cal.: Work. Hours	111	2	CT_PF_EmpCalendar	CT_PF_AECL1	N		Y	N	
+CT_PF_ECL2	Emp. Cal.: Work. Hours Ex.	112	2	CT_PF_EmpCalendar	CT_PF_AECL2	N		Y	N	
+CT_PF_ECL3	Emp. Cal.: Holidays	113	2	CT_PF_EmpCalendar	CT_PF_AECL3	N		Y	N	
+CT_PF_IDT1	Item Details: Revisions	60	2	CT_PF_ItemDetails	CT_PF_AIDT1	N		Y	N	
+CT_PF_IDT10	Item Details: Pack Sizes	54	2	CT_PF_ItemDetails	CT_PF_AIDT10	N		Y	N	
+CT_PF_IDT11	Item Det.Prop.: BussPart	104	2	CT_PF_ItemDetails	CT_PF_AIDT11	N		Y	N	
+CT_PF_IDT12	Item Details: Origins	63	2	CT_PF_ItemDetails	ACT_PF_IDT12	N		Y	N	
+CT_PF_IDT13	Item Details: Inventory Data	554	2	CT_PF_ItemDetails	CT_PF_AIDT13	N		Y	N	
+CT_PF_IDT2	Item Details: Attachments	59	2	CT_PF_ItemDetails	CT_PF_AIDT2	N		Y	N	
+CT_PF_IDT3	Item Details:Classification	57	2	CT_PF_ItemDetails	CT_PF_AIDT3	N		Y	N	
+CT_PF_IDT4	Item Details: Properties	62	2	CT_PF_ItemDetails	CT_PF_AIDT4	N		Y	N	
+CT_PF_IDT5	Item Details: Groups	55	2	CT_PF_ItemDetails	CT_PF_AIDT5	N		Y	N	
+CT_PF_IDT6	Item Details: Phrases	64	2	CT_PF_ItemDetails	CT_PF_AIDT6	N		Y	N	
+CT_PF_IDT7	Item Details: Texts	61	2	CT_PF_ItemDetails	CT_PF_AIDT7	N		Y	N	
+CT_PF_IDT8	Item Details: Allergens	58	2	CT_PF_ItemDetails	CT_PF_AIDT8	N		Y	N	
+CT_PF_IDT9	Item Details: Ingredients	56	2	CT_PF_ItemDetails	CT_PF_AIDT9	N		Y	N	
+CT_PF_IDV1	IDV: Ingredients	141	2	CT_PF_IgdDailyValue	CT_PF_AIDV1	N		Y	N	
+CT_PF_IFN1	Inspection Findings: Classes	526	2	CT_PF_InsFind	CT_PF_AIFN1	N		Y	N	
+CT_PF_IGT1	Igd. Template: Ingredients	131	2	CT_PF_IgdTemplate	CT_PF_AIGT1	N		Y	N	
+CT_PF_IGT2	Igd. Template: Nutrients	136	2	CT_PF_IgdTemplate	CT_PF_AIGT2	N		Y	N	
+CT_PF_IID1	Item Igd.: Ingredients	152	2	CT_PF_ItmIgdData	CT_PF_AIID1	N		Y	N	
+CT_PF_IID2	Item Igd.: Nutrients	151	2	CT_PF_ItmIgdData	CT_PF_AIID2	N		Y	N	
+CT_PF_IID3	Item Igd.: Allergens	135	2	CT_PF_ItmIgdData	CT_PF_AIID3	N		Y	N	
+CT_PF_IID4	Item Igd.: Classifications	143	2	CT_PF_ItmIgdData	CT_PF_AIID4	N		Y	N	
+CT_PF_IID5	Item Igd.: Certificates	134	2	CT_PF_ItmIgdData	CT_PF_AIID5	N		Y	N	
+CT_PF_IID6	Item Igd.: Specifications	150	2	CT_PF_ItmIgdData	CT_PF_AIID6	N		Y	N	
+CT_PF_IMD1	Ingredients: Allergens	142	2	CT_PF_IngredientMD	CT_PF_AIMD1	N		Y	N	
+CT_PF_IMD2	Ingredients: Classifications	133	2	CT_PF_IngredientMD	CT_PF_AIMD2	N		Y	N	
+CT_PF_IMD3	Ingredients: Certificates	140	2	CT_PF_IngredientMD	CT_PF_AIMD3	N		Y	N	
+CT_PF_IMD4	Ingredients: Specifications	132	2	CT_PF_IngredientMD	CT_PF_AIMD4	N		Y	N	
+CT_PF_IOP1	OperationInOut Property: Words	86	2	CT_PF_OIOP_CODE	CT_PF_AIOP1	N		Y	N	
+CT_PF_IPG1	Item Property Group: Subgroups	215	2	CT_PF_ItemPrpGrp	CT_PF_AIPG1	N		Y	N	
+CT_PF_IPR1	Item Property: Words	73	2	CT_PF_ItemPrp	CT_PF_AIPR1	N		Y	N	
+CT_PF_IPR2	Item Property: BusPart	66	2	CT_PF_ItemPrp	CT_PF_AIPR2	N		Y	N	
+CT_PF_IRG1	Inventory Registry: Lines	137	4	CT_PF_InvReg	CT_PF_AIRG1	N		Y	N	
+CT_PF_ITC1	Item Costing: Costing Details	40	2	CT_PF_ItemCosting	CT_PF_AITC1	N		Y	N	
+CT_PF_ITC2	Item Costing: CoProducts	28	2	CT_PF_ItemCosting	CT_PF_AITC2	N		Y	N	
+CT_PF_ITC3	Item Costing: Scrap	31	2	CT_PF_ItemCosting	CT_PF_AITC3	N		Y	N	
+CT_PF_ITC4	Item Costing: Rolled Cost	41	2	CT_PF_ItemCosting	CT_PF_AITC4	N		Y	N	
+CT_PF_ITC5	Item Costing: Rolled Cost	44	2	CT_PF_ItemCosting	CT_PF_AITC5	N		Y	N	
+CT_PF_ITC6	Item Costing: Overhead Costs	30	2	CT_PF_ItemCosting	CT_PF_AITC6	N		Y	N	
+CT_PF_ITC7	Item Costing: Costed BOM Lines	479	2	CT_PF_ItemCosting	CT_PF_AITC7	N		Y	N	
+CT_PF_LMD1	Location Master Data: Attr.	67	2	CT_PF_LocMstData	CT_PF_ALMD1	N		Y	N	
+CT_PF_LOQ1	Location Queue: Locations	69	2	CT_PF_LocQueue	CT_PF_ALOQ1	N		Y	N	
+CT_PF_MFC1	Forecast: Rows	501	2	CT_PF_Forecast	CT_PF_AMFC1	N		Y	N	
+CT_PF_MIT1	Maintainable Item: Eff. Meters	516	2	CT_PF_MainItem	CT_PF_AMIT1	N		Y	N	
+CT_PF_MIT2	Maintainable Item: Attachments	522	2	CT_PF_MainItem	CT_PF_AMIT2	N		Y	N	
+CT_PF_MIT3	Maintainable Item: Activities	521	2	CT_PF_MainItem	CT_PF_AMIT3	N		Y	N	
+CT_PF_MIT4	Maintainable Item: Ins. Points	529	2	CT_PF_MainItem	CT_PF_AMIT4	N		Y	N	
+CT_PF_MIT5	Maintainable Item: Aspects	520	2	CT_PF_MainItem	CT_PF_AMIT5	N		Y	N	
+CT_PF_MIT6	Maintainable Item: Asp. Points	525	2	CT_PF_MainItem	CT_PF_AMIT6	N		Y	N	
+CT_PF_MIT7	Maintainable Item: Conditions	513	2	CT_PF_MainItem	CT_PF_AMIT7	N		Y	N	
+CT_PF_MLT1	Material List: Items	502	2	CT_PF_MatList	CT_PF_AMLT1	N		Y	N	
+CT_PF_MOR1	MOR: Co-products	79	4	CT_PF_ManufacOrd	CT_PF_AMOR1	N		Y	N	
+CT_PF_MOR12	MOR: Operations	92	4	CT_PF_ManufacOrd	CT_PF_AMOR12	N		Y	N	
+CT_PF_MOR13	MOR: Operation Properties	103	4	CT_PF_ManufacOrd	CT_PF_AMOR13	N		Y	N	
+CT_PF_MOR14	MOR: Operation IN&OUT	97	4	CT_PF_ManufacOrd	CT_PF_AMOR14	N		Y	N	
+CT_PF_MOR15	MOR: IN&OUT properties	100	4	CT_PF_ManufacOrd	CT_PF_AMOR15	N		Y	N	
+CT_PF_MOR16	MOR: Operation Resources	101	4	CT_PF_ManufacOrd	CT_PF_AMOR16	N		Y	N	
+CT_PF_MOR17	MOR: Opr Res Properties	102	4	CT_PF_ManufacOrd	CT_PF_AMOR17	N		Y	N	
+CT_PF_MOR18	MOR: OperationTimes	80	4	CT_PF_ManufacOrd	CT_PF_AMOR18	N		Y	N	
+CT_PF_MOR19	MOR: Attachments	78	4	CT_PF_ManufacOrd	CT_PF_AMOR19	N		Y	N	
+CT_PF_MOR2	MOR: Phantoms	98	4	CT_PF_ManufacOrd	CT_PF_AMOR2	N		Y	N	
+CT_PF_MOR20	MOR: Op Relations	81	4	CT_PF_ManufacOrd	CT_PF_AMOR20	N		Y	N	
+CT_PF_MOR3	MOR: Items	99	4	CT_PF_ManufacOrd	CT_PF_AMOR3	N		Y	N	
+CT_PF_MOR4	MOR: Scrap	90	4	CT_PF_ManufacOrd	CT_PF_AMOR4	N		Y	N	
+CT_PF_MOR6	MOR: Sales Orders	91	4	CT_PF_ManufacOrd	CT_PF_AMOR6	N		Y	N	
+CT_PF_MOT1	Main. Order Temp.: Tasks	524	2	CT_PF_MainOrdTmp	CT_PF_AMOT1	N		Y	N	
+CT_PF_MOT10	Main. Order Temp.: Route Tools	527	2	CT_PF_MainOrdTmp	CT_PF_AMOT10	N		Y	N	
+CT_PF_MOT2	Main. Order Temp.: Checklist	523	2	CT_PF_MainOrdTmp	CT_PF_AMOT2	N		Y	N	
+CT_PF_MOT3	Main. Order Temp.: Materials	518	2	CT_PF_MainOrdTmp	CT_PF_AMOT3	N		Y	N	
+CT_PF_MOT4	Main. Order Temp.: Tools	519	2	CT_PF_MainOrdTmp	CT_PF_AMOT4	N		Y	N	
+CT_PF_MOT5	Main. Order Temp.: Attachments	514	2	CT_PF_MainOrdTmp	CT_PF_AMOT5	N		Y	N	
+CT_PF_MOT6	Main. Order Temp.: Templates	512	2	CT_PF_MainOrdTmp	CT_PF_AMOT6	N		Y	N	
+CT_PF_MOT7	Main. Order Temp.: Route Tasks	517	2	CT_PF_MainOrdTmp	CT_PF_AMOT7	N		Y	N	
+CT_PF_MOT8	Main. Order Temp.: R. Check.	515	2	CT_PF_MainOrdTmp	CT_PF_AMOT8	N		Y	N	
+CT_PF_MOT9	Main. Order Temp.: Route Mat.	528	2	CT_PF_MainOrdTmp	CT_PF_AMOT9	N		Y	N	
+CT_PF_MOW1	MOR Wizard Items	536	2	MORWizard	CT_PF_AMOW1	N		Y	N	
+CT_PF_MOW11	MOR Wizard Sources	637	2	MORWizard	CT_PF_AMOW11	N		Y	N	
+CT_PF_MOW2	MOR Wizard Orders	537	2	MORWizard	CT_PF_AMOW2	N		Y	N	
+CT_PF_MOW22	MOR Wizard Rcms Links	638	2	MORWizard	CT_PF_AMOW22	N		Y	N	
+CT_PF_MOW3	MOR Wizard Relations	538	2	MORWizard	CT_PF_AMOW3	N		Y	N	
+CT_PF_MRC1	MRP:OrderRecLinks	535	2	CT_PF_MRPORec	CT_PF_AMRC1	N		Y	N	
+CT_PF_MRD1	Meter Reading: Inheritences	506	4	CT_PF_MeterRead	CT_PF_AMRD1	N		Y	N	
+CT_PF_MTR1	Main. Order: Tasks	485	4	CT_PF_MainOrder	CT_PF_AMTR1	N		Y	N	
+CT_PF_MTR10	Main. Order: Route Check.	486	4	CT_PF_MainOrder	CT_PF_AMTR10	N		Y	N	
+CT_PF_MTR11	Main. Order: Route Mat.	483	4	CT_PF_MainOrder	CT_PF_AMTR11	N		Y	N	
+CT_PF_MTR12	Main. Order Temp.: Route Tools	484	4	CT_PF_MainOrder	CT_PF_AMTR12	N		Y	N	
+CT_PF_MTR2	Main. Order: Checklist	504	4	CT_PF_MainOrder	CT_PF_AMTR2	N		Y	N	
+CT_PF_MTR3	Main. Order: Materials	481	4	CT_PF_MainOrder	CT_PF_AMTR3	N		Y	N	
+CT_PF_MTR4	Main. Order: Tools	531	4	CT_PF_MainOrder	CT_PF_AMTR4	N		Y	N	
+CT_PF_MTR5	Main. Order: Attachments	505	4	CT_PF_MainOrder	CT_PF_AMTR5	N		Y	N	
+CT_PF_MTR6	Main. Order: Activities	503	4	CT_PF_MainOrder	CT_PF_AMTR6	N		Y	N	
+CT_PF_MTR7	Main. Order: Documents	480	4	CT_PF_MainOrder	CT_PF_AMTR7	N		Y	N	
+CT_PF_MTR8	Main. Order: Route MOs	530	4	CT_PF_MainOrder	CT_PF_AMTR8	N		Y	N	
+CT_PF_MTR9	Main. Order: Route Tasks	482	4	CT_PF_MainOrder	CT_PF_AMTR9	N		Y	N	
+CT_PF_NTR1	NCMR Transaction: Defects	236	4	CT_PF_NcmrTrans	CT_PF_ANTR1	N		Y	N	
+CT_PF_NTR2	NCMR Transaction: Reasons	246	4	CT_PF_NcmrTrans	CT_PF_ANTR2	N		Y	N	
+CT_PF_NTR3	NCMR Transaction: Attachments	235	4	CT_PF_NcmrTrans	CT_PF_ANTR3	N		Y	N	
+CT_PF_OABT	Additional Batch Details	256	1	CT_PF_AdditonalBatch	CT_PF_AABT	N		Y	N	
+CT_PF_OAJE	Additional Journal Entries	123	1	CT_PF_OAJE	CT_PF_AAJE	N		Y	N	
+CT_PF_OALG	Allergen master data table	118	1	CT_PF_Allergen	CT_PF_AALG	N		Y	N	
+CT_PF_OAQL	Acceptance Quality Limit	571	1	CT_PF_AccQualLmt	CT_PF_AAQL	N		Y	N	
+CT_PF_OATR	Operation Time Rec Adj	277	3	CT_PF_OperTRecAdj	CT_PF_AATR	N		Y	N	
+CT_PF_OBCS	BulkChange:Scenario	588	1	CT_PF_BCScenario	CT_PF_ABCS	N		Y	N	
+CT_PF_OBLOB	Blob Objects	107	0			N		Y	N	
+CT_PF_OBLT	BP Lead Time	553	1	CT_PF_BPLeadTime	CT_PF_ABLT	N		Y	N	
+CT_PF_OBOM	BOM	265	1	CT_PF_OBOMCode	CT_PF_ABOM	N		Y	N	
+CT_PF_OBSE	Branch Default Series	552	5			N		Y	N	
+CT_PF_OBTM	Batch Template	119	1	CT_PF_BatchTemplate	CT_PF_ABTM	N		Y	N	
+CT_PF_OCAL	Capacity Calendar	53	1	CT_PF_CapCalendar	CT_PF_ACAL	N		Y	N	
+CT_PF_OCBCS	Costed BOM: Column Settings	144	0			N		Y	N	
+CT_PF_OCBM	Costed Bill of Materials	599	1	CT_PF_CostedBom	CT_PF_ACBM	N		Y	N	
+CT_PF_OCCD	Closing Code	573	1	CT_PF_CloseCode	CT_PF_ACCD	N		Y	N	
+CT_PF_OCCT	Cost Category	50	1	CT_PF_CostCategory	CT_PF_ACCT	N		Y	N	
+CT_PF_OCGR	Complaint Group	250	1	CT_PF_ComplaintGrp	CT_PF_ACGR	N		Y	N	
+CT_PF_OCLC	Columns Configuration	148	0			N		Y	N	
+CT_PF_OCLS	Class	147	1	CT_PF_Class	CT_PF_ACLS	N		Y	N	
+CT_PF_OCMP	Costs Comparison	48	1	CT_PF_CostsComp	CT_PF_ACMP	N		Y	N	
+CT_PF_OCPL	Complaint	275	3	CT_PF_Complaint	CT_PF_ACPL	N		Y	N	
+CT_PF_OCRS	Complaint Reason	248	1	CT_PF_ComplaintRsn	CT_PF_ACRS	N		Y	N	
+CT_PF_OCTG	Category	130	1	CT_PF_Category	CT_PF_ACTG	N		Y	N	
+CT_PF_OCTL	Calendar Template	258	1	CT_PF_CalTemplate	CT_PF_ACTL	N		Y	N	
+CT_PF_OCTR	Counter Schemes	583	1	CT_PF_CtScheme	CT_PF_ACTR	N		Y	N	
+CT_PF_OCVC	Vehicle Insp. Reasons	202	1	CT_PF_VehInspRsn	CT_PF_ACVC	N		Y	N	
+CT_PF_OCVI	Vehicle Inspection	207	3	CT_PF_VehInsp	CT_PF_ACVI	N		Y	N	
+CT_PF_OCVR	Vehicle Insp. Group	203	1	CT_PF_VehInspGrp	CT_PF_ACVR	N		Y	N	
+CT_PF_ODDA	Draft Document Authorization	388	1	CT_PF_DraftDocAuthor	CT_PF_ADDA	N		Y	N	
+CT_PF_ODEF	Defect	200	1	CT_PF_Defect	CT_PF_ADEF	N		Y	N	
+CT_PF_ODEG	Defect Group	199	1	CT_PF_DefectGrp	CT_PF_ADEG	N		Y	N	
+CT_PF_ODTM	Down Time	393	3	CT_PF_DownTime	CT_PF_ADTM	N		Y	N	
+CT_PF_ODTRG	Downtime Reason Groups	405	1	CT_PF_DTReaonGroup		N		Y	N	
+CT_PF_ODTRS	DownTimeReason	188	1	CT_PF_DTReasonCodes	CT_PF_ADTRS	N		Y	N	
+CT_PF_OECL	Employee Calendar	266	1	CT_PF_EmpCalendar	CT_PF_AECL	N		Y	N	
+CT_PF_OEET	Expiry Date Eval Template	153	1	CT_PF_EvalTemplate	CT_PF_AEET	N		Y	N	
+CT_PF_OEMT	Effective Meter Type	574	1	CT_PF_EMType	CT_PF_AEMT	N		Y	N	
+CT_PF_OFCT	Action Facts	551	5			N		Y	N	
+CT_PF_OHCF	Help Config	154	1	CT_PF_HelpConfig	CT_PF_AHCF	N		Y	N	
+CT_PF_OIAS	Inspection Aspects	581	1	CT_PF_InsAspect	CT_PF_AIAS	N		Y	N	
+CT_PF_OICG	Item Classification Group	138	1	CT_PF_ItemClasGrp	CT_PF_AICG	N		Y	N	
+CT_PF_OICH	ItemPrpCheckList	74	1	CT_PF_IPRCheckList	CT_PF_AICH	N		Y	N	
+CT_PF_OICL	Item Classification	139	1	CT_PF_ItemClass	CT_PF_AIPCL	N		Y	N	
+CT_PF_OICN	Inspection Conditions	580	1	CT_PF_InsCond	CT_PF_AICN	N		Y	N	
+CT_PF_OICS	Ingredient Classification	387	1	CT_PF_IgdClass	CT_PF_AICS	N		Y	N	
+CT_PF_OICT	Ingredient Classification Type	155	1	CT_PF_IgdClassType	CT_PF_AICT	N		Y	N	
+CT_PF_OIDT	ItemDetails	398	1	CT_PF_ItemDetails	CT_PF_AIDT	N		Y	N	
+CT_PF_OIDV	Ingredient Daily Value	401	1	CT_PF_IgdDailyValue	CT_PF_AIVD	N		Y	N	
+CT_PF_OIFN	Inspection Findings	587	1	CT_PF_InsFind	CT_PF_AIFN	N		Y	N	
+CT_PF_OIGC	Ingredients Category	226	1	CT_PF_IdgCategory	CT_PF_AIGC	N		Y	N	
+CT_PF_OIGG	Item Group Grp	71	1	CT_PF_ItemGrpGrp	CT_PF_AIGG	N		Y	N	
+CT_PF_OIGR	Item Group	72	1	CT_PF_OIGroup	CT_PF_AIGR	N		Y	N	
+CT_PF_OIGT	Ingredient Template	389	1	CT_PF_IgdTemplate	CT_PF_AIGT	N		Y	N	
+CT_PF_OIHG	Item Phrases Grp	218	1	CT_PF_ItemPhGrp	CT_PF_AIHG	N		Y	N	
+CT_PF_OIID	Item Ingredients Data	390	1	CT_PF_ItmIgdData	CT_PF_AIID	N		Y	N	
+CT_PF_OILV	Inspection Level	585	1	CT_PF_InspectionLvl	CT_PF_AILV	N		Y	N	
+CT_PF_OIMD	Ingredient master data	399	1	CT_PF_IngredientMD	CT_PF_AIMD	N		Y	N	
+CT_PF_OIMT	Inspection Methods	576	1	CT_PF_InsMethod	CT_PF_AIMT	N		Y	N	
+CT_PF_OING	Inspector Group	195	1	CT_PF_InspectorGrp	CT_PF_AING	N		Y	N	
+CT_PF_OINN	NCMR Inspector	181	1	CT_PF_InsNcmr	CT_PF_AINN	N		Y	N	
+CT_PF_OINS	Inspector	196	1	CT_PF_Inspector	CT_PF_AINS	N		Y	N	
+CT_PF_OIOCH	InputOutputCheckList	416	1	CT_PF_IOCheckList	CT_PF_AIOCH	N		Y	N	
+CT_PF_OIOP	Properties For IO	280	1	CT_PF_OIOP_CODE	CT_PF_AIOP	N		Y	N	
+CT_PF_OIPG	Item Property Group	271	1	CT_PF_ItemPrpGrp	CT_PF_AIPG	N		Y	N	
+CT_PF_OIPH	Item Phrases	219	1	CT_PF_OIPhra	CT_PF_AIPH	N		Y	N	
+CT_PF_OIPR	Item Property	272	1	CT_PF_ItemPrp	CT_PF_AIPR	N		Y	N	
+CT_PF_OIPT	Inspection Point Types	577	1	CT_PF_InsPntType	CT_PF_AIPT	N		Y	N	
+CT_PF_OIRD	Inspection Reading	572	3	CT_PF_InspectionRead	CT_PF_AIRD	N		Y	N	
+CT_PF_OIRG	Inventory Register	396	3	CT_PF_InvReg	CT_PF_AOIRG	N		Y	N	
+CT_PF_OITC	Item Costing	46	1	CT_PF_ItemCosting	CT_PF_AITC	N		Y	N	
+CT_PF_OITG	Item Text Grp	216	1	CT_PF_ItemTxtGrp	CT_PF_AITG	N		Y	N	
+CT_PF_OITL	Item Location	94	1	CT_PF_ItemLoc	CT_PF_AITL	N		Y	N	
+CT_PF_OITX	Item Text	70	1	CT_PF_IText	CT_PF_AITX	N		Y	N	
+CT_PF_OIUL	Item Usable Location	95	1	CT_PF_ItemUsLoc	CT_PF_AIUL	N		Y	N	
+CT_PF_OLAB	Label	217	1	CT_PF_Label	CT_PF_ALAB	N		Y	N	
+CT_PF_OLAT	Location Attribute	65	1	CT_PF_LocAttr	CT_PF_ALAT	N		Y	N	
+CT_PF_OLAV	Location Availability	68	1	CT_PF_LocAvail	CT_PF_ALAV	N		Y	N	
+CT_PF_OLMD	Location Master Data	274	1	CT_PF_LocMstData	CT_PF_ALMD	N		Y	N	
+CT_PF_OLMR	MRP:Document_Link	533	5			N		Y	N	
+CT_PF_OLOC	Location	96	1	CT_PF_Location	CT_PF_ALOC	N		Y	N	
+CT_PF_OLOQ	Location Queue	269	1	CT_PF_LocQueue	CT_PF_ALOQ	N		Y	N	
+CT_PF_OMAR	ManufacturingRelations	539	1	CT_PF_MORRelations	CT_PF_AMAR	N		Y	N	
+CT_PF_OMFC	Forecast	532	1	CT_PF_Forecast	CT_PF_AMFC	N		Y	N	
+CT_PF_OMIP	MES Inspection Point	575	1	CT_PF_MESInspPoint	CT_PF_AMIP	N		Y	N	
+CT_PF_OMIT	Maintainable Item	586	1	CT_PF_MainItem	CT_PF_AMIT	N		Y	N	
+CT_PF_OMLT	Material List	596	1	CT_PF_MatList	CT_PF_AMLT	N		Y	N	
+CT_PF_OMOR	MOR	268	3	CT_PF_ManufacOrd	CT_PF_AMOR	N		Y	N	
+CT_PF_OMOT	Maintenance Order Template	597	1	CT_PF_MainOrdTmp	CT_PF_AMOT	N		Y	N	
+CT_PF_OMOW	MOR Wizard	591	1	MORWizard	CT_PF_AMOW	N		Y	N	
+CT_PF_OMRB	MRPBOMTree	569	5			N		Y	N	
+CT_PF_OMRC	MRP:OrderRecomendation	589	1	CT_PF_MRPORec	CT_PF_AMRC	N		Y	N	
+CT_PF_OMRD	Meter Reading	593	3	CT_PF_MeterRead	CT_PF_AMRD	N		Y	N	
+CT_PF_OMSC	Man. Order Series Config.	93	1	CT_PF_MorSrsConf	CT_PF_AMSC	N		Y	N	
+CT_PF_OMTR	Maintenance Order	598	3	CT_PF_MainOrder	CT_PF_AMTR	N		Y	N	
+CT_PF_ONTR	NCMR Transaction	273	3	CT_PF_NcmrTrans	CT_PF_ANTR	N		Y	N	
+CT_PF_ONUT	Nutrient Master Data	75	1	CT_PF_Nutrient	CT_PF_ANUT	N		Y	N	
+CT_PF_OOCH	OperationCheckList	76	1	CT_PF_OprCheckList	CT_PF_AOCH	N		Y	N	
+CT_PF_OOHT	Overhead Types	406	1	CT_PF_OverheadType		N		Y	N	
+CT_PF_OOPR	Operation	260	1	CT_PF_Operation	CT_PF_AOPR	N		Y	N	
+CT_PF_OOTR	Operation Time Recording	279	3	CT_PF_OperTimeRec	CT_PF_AOTR	N		Y	N	
+CT_PF_OPDC	PDCSettings	49	1	CT_PF_PDCSettings	CT_PF_APDC	N		Y	N	
+CT_PF_OPDL	PDC Log	231	1	CT_PF_PDC_Log	CT_PF_APDL	N		Y	N	
+CT_PF_OPLR	Plate References	262	3	CT_PF_OPLR	CT_PF_APLR	N		Y	N	
+CT_PF_OPMS	PM Schedule	595	1	CT_PF_PMSchedule	CT_PF_APMS	N		Y	N	
+CT_PF_OPNO	Plan Normalization	210	1	CT_PF_OPNO	CT_PF_APNO	N		Y	N	
+CT_PF_OPOR	Pick Order	282	3	CT_PF_PickOrder	CT_PF_APOR	N		Y	N	
+CT_PF_OPR1	Operation: Properties	173	2	CT_PF_Operation	CT_PF_AOPR1	N		Y	N	
+CT_PF_OPR2	Operation: Resources	245	2	CT_PF_Operation	CT_PF_AOPR2	N		Y	N	
+CT_PF_OPR3	Operation: Resources-Prop.	170	2	CT_PF_Operation	CT_PF_AOPR3	N		Y	N	
+CT_PF_OPRD	Orderless Document	278	3	CT_PF_OlProd	CT_PF_APRD	N		Y	N	
+CT_PF_OPRE	Pick Receipt	281	3	CT_PF_PickReceipt	CT_PF_APRE	N		Y	N	
+CT_PF_OPRI	Priority	578	1	CT_PF_Priority	CT_PF_APRI	N		Y	N	
+CT_PF_OPRO	Properties for Operations	386	1	CT_PF_OperationProp	CT_PF_APRO	N		Y	N	
+CT_PF_OPRR	Properties for Resources	391	1	CT_PF_ResourceProp	CT_PF_APRR	N		Y	N	
+CT_PF_OPRT	Orderless Produdtion Template	276	1	CT_PF_OlProdTepl	CT_PF_APRT	N		Y	N	
+CT_PF_OPVR	Preferred Vendors	270	1	CT_PF_PrefVendors	CT_PF_APVR	N		Y	N	
+CT_PF_OQCC	Counter	584	5			N		Y	N	
+CT_PF_OQCP	QC Test Pool	417	3	CT_PF_QCPool	CT_PF_AQCP	N		Y	N	
+CT_PF_OQCQ	QC Qualifications	582	1	CT_PF_QCQual	CT_PF_AQCQ	N		Y	N	
+CT_PF_OQCT	QC Test	397	3	CT_PF_QCTest	CT_PF_AQCT	N		Y	N	
+CT_PF_OQLF	Qualification	579	1	CT_PF_Qualifctn	CT_PF_AQLF	N		Y	N	
+CT_PF_OQPL	Quality Plans	590	1	CT_PF_QualityPlan	CT_PF_AQPL	N		Y	N	
+CT_PF_ORAC	Resources Accounting	394	1	CT_PF_ORAC	CT_PF_ARAC	N		Y	N	
+CT_PF_ORCH	ResourceCheckList	204	1	CT_PF_RscCheckList	CT_PF_ARCH	N		Y	N	
+CT_PF_ORCL	Resource Calendar	52	1	CT_PF_RscCalendar	CT_PF_ARCL	N		Y	N	
+CT_PF_ORCLH	Resource Calendar History	34	0			N		Y	N	
+CT_PF_ORCM	Order Recommendation	227	1	CT_PF_OrdRcm	CT_PF_ARCM	N		Y	N	
+CT_PF_ORCT	Resource Costing	47	1	CT_PF_RscCost	CT_PF_ARCT	N		Y	N	
+CT_PF_OREV	Items Revision Helper	556	1	CT_PF_ItemRevisions		N		Y	N	
+CT_PF_ORGR	Groups for Resources	43	1	CT_PF_ResourceGroup	CT_PF_ARGR	N		Y	N	
+CT_PF_ORNN	NCMR Reason	180	1	CT_PF_ReasonNcmr	CT_PF_ARNN	N		Y	N	
+CT_PF_ORSC	Resource	51	1	CT_PF_Resource	CT_PF_ARSC	N		Y	N	
+CT_PF_ORSG	Reason Group	197	1	CT_PF_ReasonGrp	CT_PF_ARSG	N		Y	N	
+CT_PF_ORSH	Res. Cal. Stand. Hours	534	1	CT_PF_RscCalStdHrs	CT_PF_ARSH	N		Y	N	
+CT_PF_ORSN	Reason	201	1	CT_PF_Reason	CT_PF_ARSN	N		Y	N	
+CT_PF_ORTG	Routing	392	1	CT_PF_Routing	CT_PF_ARTG	N		Y	N	
+CT_PF_ORWRG	Rework Reason Groups	404	1	CT_PF_RWReaonGroup		N		Y	N	
+CT_PF_ORWRS	ReworkReason	183	1	CT_PF_RWReasonCodes	CT_PF_ARWRS	N		Y	N	
+CT_PF_OSCE	MRP:Scenario	592	1	CT_PF_MRPScenario	CT_PF_ASCE	N		Y	N	
+CT_PF_OSCRG	Scrap Reason Groups	403	1	CT_PF_SCReaonGroup		N		Y	N	
+CT_PF_OSCRS	ScrapReason	184	1	CT_PF_SCReasonCodes	CT_PF_ASCRS	N		Y	N	
+CT_PF_OSHF	Shift	220	1	CT_PF_Shift	CT_PF_ASHF	N		Y	N	
+CT_PF_OSIT	Substitutes	267	1	CT_PF_Substitutes	CT_PF_ASIT	N		Y	N	
+CT_PF_OSTB	Sampling Table	558	1	CT_PF_SamplingTbl	CT_PF_ASTB	N		Y	N	
+CT_PF_OSTM	Serial Template	191	1	CT_PF_SerialTemplate	CT_PF_ASTM	N		Y	N	
+CT_PF_OTCG	Test Protocol Group	206	1	CT_PF_TestPrclGrp	CT_PF_ATCG	N		Y	N	
+CT_PF_OTCH	Template Checkpoint	601	1	CT_PF_TempCheck	CT_PF_ATCH	N		Y	N	
+CT_PF_OTCL	Test Protocol	400	1	CT_PF_TestPrcl	CT_PF_ATCL	N		Y	N	
+CT_PF_OTEM	Team	264	1	CT_PF_Team	CT_PF_ATEM	N		Y	N	
+CT_PF_OTPG	Test Property Group	205	1	CT_PF_TestPrpGrp	CT_PF_ATPG	N		Y	N	
+CT_PF_OTPR	Test Property	395	1	CT_PF_TestPrp	CT_PF_ATPR	N		Y	N	
+CT_PF_OTPT	Test Protocol Template	402	1	CT_PF_TestTempl	CT_PF_ATPT	N		Y	N	
+CT_PF_OTQY	Qty Registration	185	5			N		Y	N	
+CT_PF_OTR1	Opertion Time Recording:Times	82	4	CT_PF_OperTimeRec	CT_PF_AOTR1	N		Y	N	
+CT_PF_OTR2	Operation Time Rec.:Empl. Time	84	4	CT_PF_OperTimeRec	CT_PF_AOTR2	N		Y	N	
+CT_PF_OTR3	Operation Time Rec.:Reasons	83	4	CT_PF_OperTimeRec	CT_PF_AOTR3	N		Y	N	
+CT_PF_OTRD	Trade	600	1	CT_PF_Trade	CT_PF_ATRD	N		Y	N	
+CT_PF_OTRT	Time Reg Temp Entry	259	1	CT_PF_TimeTempEntr	CT_PF_ATRT	N		Y	N	
+CT_PF_OTSK	Task	594	1	CT_PF_Task	CT_PF_ATSK	N		Y	N	
+CT_PF_OTTM	TempTables	567	5			N		Y	N	
+CT_PF_OUST	User Setting	157	1	CT_PF_USERSETT		N		Y	N	
+CT_PF_OVLPL	VirtualLicensePlate	261	1	CT_PF_VirtLPL	CT_PF_AVLPL	N		Y	N	
+CT_PF_OWDC	WeightDocument	409	3	CT_PF_WeightDocument	CT_PF_AWDC	N		Y	N	
+CT_PF_OWLG	WeightLog	408	5			N		Y	N	
+CT_PF_OWRD	Wordbook	233	1	CT_PF_Wordbook	CT_PF_AWRD	N		Y	N	
+CT_PF_OWRG	Work Registration	263	1	CT_PF_WorkReg	CT_PF_AWRG	N		Y	N	
+CT_PF_PLR1	Plate Ref.: Required Items	238	4	CT_PF_OPLR	CT_PF_APLR1	N		Y	N	
+CT_PF_PLR2	Plate Ref.: Picked Items	239	4	CT_PF_OPLR	CT_PF_APLR2	N		Y	N	
+CT_PF_PLR3	Plate Ref.: Relations	237	4	CT_PF_OPLR	CT_PF_APLR3	N		Y	N	
+CT_PF_PLR4	Plate Ref.: Used License Plate	255	4	CT_PF_OPLR	CT_PF_APLR4	N		Y	N	
+CT_PF_PMS1	PM Schedule: Serviced MIs	509	2	CT_PF_PMSchedule	CT_PF_APMS1	N		Y	N	
+CT_PF_PMS10	PM Schedule: Tools	510	2	CT_PF_PMSchedule	CT_PF_APMS10	N		Y	N	
+CT_PF_PMS11	PM Schedule: Attachments	490	2	CT_PF_PMSchedule	CT_PF_APMS11	N		Y	N	
+CT_PF_PMS2	PM Schedule: Tasks	511	2	CT_PF_PMSchedule	CT_PF_APMS2	N		Y	N	
+CT_PF_PMS3	PM Schedule: Checklists	489	2	CT_PF_PMSchedule	CT_PF_APMS3	N		Y	N	
+CT_PF_PMS4	PM Schedule: R. Templates	508	2	CT_PF_PMSchedule	CT_PF_APMS4	N		Y	N	
+CT_PF_PMS5	PM Schedule: Route Tasks	500	2	CT_PF_PMSchedule	CT_PF_APMS5	N		Y	N	
+CT_PF_PMS6	PM Schedule: R. Checklists	493	2	CT_PF_PMSchedule	CT_PF_APMS6	N		Y	N	
+CT_PF_PMS7	PM Schedule: R. Materials	492	2	CT_PF_PMSchedule	CT_PF_APMS7	N		Y	N	
+CT_PF_PMS8	PM Schedule: Route Tools	507	2	CT_PF_PMSchedule	CT_PF_APMS8	N		Y	N	
+CT_PF_PMS9	PM Schedule: Materials	491	2	CT_PF_PMSchedule	CT_PF_APMS9	N		Y	N	
+CT_PF_POR1	Pick Order: Required Items	232	4	CT_PF_PickOrder	CT_PF_APOR1	N		Y	N	
+CT_PF_POR2	Pick Order: Picked Items	229	4	CT_PF_PickOrder	CT_PF_APOR2	N		Y	N	
+CT_PF_POR3	Pick Order: Relations	228	4	CT_PF_PickOrder	CT_PF_APOR3	N		Y	N	
+CT_PF_POR5	Pick Order: Bins	230	4	CT_PF_PickOrder	CT_PF_APOR5	N		Y	N	
+CT_PF_PRD1	Orderless Document:Lines	225	4	CT_PF_OlProd	CT_PF_APRD1	N		Y	N	
+CT_PF_PRE1	Pick Receipt: Required Items	212	4	CT_PF_PickReceipt	CT_PF_APRE1	N		Y	N	
+CT_PF_PRE2	Pick Receipt: Picked Items	208	4	CT_PF_PickReceipt	CT_PF_APRE2	N		Y	N	
+CT_PF_PRE3	Pick Receipt: Relations	213	4	CT_PF_PickReceipt	CT_PF_APRE3	N		Y	N	
+CT_PF_PRE4	Pick Receipt: Bins	209	4	CT_PF_PickReceipt	CT_PF_APRE4	N		Y	N	
+CT_PF_PRO1	Operation Property: Words	77	2	CT_PF_OperationProp	CT_PF_APRO1	N		Y	N	
+CT_PF_PRR1	Resources Property: Words	182	2	CT_PF_ResourceProp	CT_PF_APRR1	N		Y	N	
+CT_PF_PRT1	Orderless Template:Lines	222	2	CT_PF_OlProdTepl	CT_PF_APRT1	N		Y	N	
+CT_PF_PVR1	Preferred Vendors: Rows	214	2	CT_PF_PrefVendors	CT_PF_APVR1	N		Y	N	
+CT_PF_QCT1	QC Test: Test Results	242	4	CT_PF_QCTest	CT_PF_AQCT1	N		Y	N	
+CT_PF_QCT10	QC Test: It. Prop. BussPart	247	4	CT_PF_QCTest	CT_PF_AQCT10	N		Y	N	
+CT_PF_QCT11	QC Test: Res. BussPart	243	4	CT_PF_QCTest	CT_PF_AQCT11	N		Y	N	
+CT_PF_QCT2	QC Test: Batches	224	4	CT_PF_QCTest	CT_PF_AQCT2	N		Y	N	
+CT_PF_QCT3	QC Test: Serial Numbers	174	4	CT_PF_QCTest	CT_PF_AQCT3	N		Y	N	
+CT_PF_QCT4	QC Test: Defects	175	4	CT_PF_QCTest	CT_PF_AQCT4	N		Y	N	
+CT_PF_QCT5	QC Test: Resources	241	4	CT_PF_QCTest	CT_PF_AQCT5	N		Y	N	
+CT_PF_QCT6	QC Test: Items	172	4	CT_PF_QCTest	CT_PF_AQCT6	N		Y	N	
+CT_PF_QCT7	QC Test: Attachments	171	4	CT_PF_QCTest	CT_PF_AQCT7	N		Y	N	
+CT_PF_QCT8	QC Test: Item Properties	244	4	CT_PF_QCTest	CT_PF_AQCT8	N		Y	N	
+CT_PF_QCT9	QC Test: Multiple Test Res.	179	4	CT_PF_QCTest	CT_PF_AQCT9	N		Y	N	
+CT_PF_QPL1	Quality Plan: Lines	559	2	CT_PF_QualityPlan	CT_PF_AQPL1	N		Y	N	
+CT_PF_RAC1	Resources Acct: Accounts	186	2	CT_PF_ORAC	CT_PF_ARAC1	N		Y	N	
+CT_PF_RCL1	Rsc. Cal.: Work. Hours	36	2	CT_PF_RscCalendar	CT_PF_ARCL1	N		Y	N	
+CT_PF_RCL2	Rsc. Cal.: Work. Hours Ex.	38	2	CT_PF_RscCalendar	CT_PF_ARCL2	N		Y	N	
+CT_PF_RCL3	Rsc. Cal.: Holidays	37	2	CT_PF_RscCalendar	CT_PF_ARCL3	N		Y	N	
+CT_PF_RCT1	Resource Costing: Costs	32	2	CT_PF_RscCost	CT_PF_ARCT1	N		Y	N	
+CT_PF_RCT2	Resource Costing: Overhead Cst	35	2	CT_PF_RscCost	CT_PF_ARCT2	N		Y	N	
+CT_PF_RSC1	Resource: Properties	42	2	CT_PF_Resource	CT_PF_ARSC1	N		Y	N	
+CT_PF_RSC2	Resource: Linked Tools	487	2	CT_PF_Resource	CT_PF_ARSC2	N		Y	N	
+CT_PF_RSC3	Resource: Planning Inf.	488	2	CT_PF_Resource	CT_PF_ARSC3	N		Y	N	
+CT_PF_RSC9	Resource: Attachments	45	2	CT_PF_Resource	CT_PF_ARSC9	N		Y	N	
+CT_PF_RTG1	Routing: Operations	192	2	CT_PF_Routing	CT_PF_ARTG1	N		Y	N	
+CT_PF_RTG2	Routing: Operations-Properties	189	2	CT_PF_Routing	CT_PF_ARTG2	N		Y	N	
+CT_PF_RTG3	Routing: Operations-Resources	193	2	CT_PF_Routing	CT_PF_ARTG3	N		Y	N	
+CT_PF_RTG4	Routing: Operations-Res.-Prop.	194	2	CT_PF_Routing	CT_PF_ARTG4	N		Y	N	
+CT_PF_RTG5	Routing: Op Relations	190	2	CT_PF_Routing	CT_PF_ARTG5	N		Y	N	
+CT_PF_SCE1	MRP:WhsInfo	562	2	CT_PF_MRPScenario	CT_PF_ASCE1	N		Y	N	
+CT_PF_SCE2	MRP:Restrictions	561	2	CT_PF_MRPScenario	CT_PF_ASCE2	N		Y	N	
+CT_PF_SCE3	MRP:Items	564	2	CT_PF_MRPScenario	CT_PF_ASCE3	N		Y	N	
+CT_PF_SCE31	MRP:VendorLeadTimes	563	2	CT_PF_MRPScenario	CT_PF_ASCE31	N		Y	N	
+CT_PF_SCE32	MRP:VendorInternalLeadTimes	566	2	CT_PF_MRPScenario	CT_PF_ASCE32	N		Y	N	
+CT_PF_SCE4	MRP:Forecasts	570	2	CT_PF_MRPScenario	CT_PF_ASCE4	N		Y	N	
+CT_PF_SCE7	MRP: Temp Item Data	565	2	CT_PF_MRPScenario	CT_PF_ASCE7	N		Y	N	
+CT_PF_SIT1	Substitutes: Items	169	2	CT_PF_Substitutes	CT_PF_ASIT1	N		Y	N	
+CT_PF_SIT2	Substitutes: BOMs Conf.	568	2	CT_PF_Substitutes	CT_PF_ASIT2	N		Y	N	
+CT_PF_SSC1	SSC: Attachments	187	2	CT_PF_SupplierSC	CT_PF_ASSC1	N		Y	N	
+CT_PF_TCH1	Temp. Checkpoint: Findings	499	2	CT_PF_TempCheck	CT_PF_ATCH1	N		Y	N	
+CT_PF_TCH2	Temp. Checkpoint: Values	497	2	CT_PF_TempCheck	CT_PF_ATCH2	N		Y	N	
+CT_PF_TCL10	Test Protocol: Quality Plans	560	2	CT_PF_TestPrcl	CT_PF_ATCL10	N		Y	N	
+CT_PF_TCL2	Test Protocol: Properties	158	2	CT_PF_TestPrcl	CT_PF_ATCL2	N		Y	N	
+CT_PF_TCL3	Test Protocol: Resources	162	2	CT_PF_TestPrcl	CT_PF_ATCL3	N		Y	N	
+CT_PF_TCL4	Test Protocol: Items	166	2	CT_PF_TestPrcl	CT_PF_ATCL4	N		Y	N	
+CT_PF_TCL5	Test Protocol: Attachments	167	2	CT_PF_TestPrcl	CT_PF_ATCL5	N		Y	N	
+CT_PF_TCL6	Test Protocol: Item Properties	168	2	CT_PF_TestPrcl	CT_PF_ATCL6	N		Y	N	
+CT_PF_TCL7	Test Prot. Item: BussPart	163	2	CT_PF_TestPrcl	CT_PF_ATCL7	N		Y	N	
+CT_PF_TCL8	Test Prot. Prop: BussPart	164	2	CT_PF_TestPrcl	CT_PF_ATCL8	N		Y	N	
+CT_PF_TCL9	Test Protocol: Freq. Rules	557	2	CT_PF_TestPrcl	CT_PF_ATCL9	N		Y	N	
+CT_PF_TEM1	Team: Members	211	2	CT_PF_Team	CT_PF_ATEM1	N		Y	N	
+CT_PF_TPR1	Test Property: Words	177	2	CT_PF_TestPrp	CT_PF_ATPR1	N		Y	N	
+CT_PF_TPR2	Test Property: Words	178	2	CT_PF_TestPrp	CT_PF_ATPR2	N		Y	N	
+CT_PF_TPT1	Test Pr. Template: Properties	160	2	CT_PF_TestTempl	CT_PF_ATPT1	N		Y	N	
+CT_PF_TPT2	Test Pr. Template: BussPart	156	2	CT_PF_TestTempl	CT_PF_ATPT2	N		Y	N	
+CT_PF_TRD1	Trade: Rates	495	2	CT_PF_Trade	CT_PF_ATRD1	N		Y	N	
+CT_PF_TRD2	Trade: Qualifications	496	2	CT_PF_Trade	CT_PF_ATRD2	N		Y	N	
+CT_PF_TRT1	Time Reg Temp:Lines	165	2	CT_PF_TimeTempEntr	CT_PF_ATRT1	N		Y	N	
+CT_PF_TRT2	Time Reg Temp:Materials	198	2	CT_PF_TimeTempEntr	CT_PF_ATRT2	N		Y	N	
+CT_PF_TSK1	Task: Checklist	494	2	CT_PF_Task	CT_PF_ATSK1	N		Y	N	
+CT_PF_TSK4	Task: Attachments	498	2	CT_PF_Task	CT_PF_ATSK4	N		Y	N	
+CT_PF_UHIS	Installation history	555	5			N		Y	N	
+CT_PF_VLPL1	Virt LicPlate Items	161	2	CT_PF_VirtLPL	CT_PF_AVLPL1	N		Y	N	
+CT_PF_VLPL2	Virt LicPlate Batches	176	2	CT_PF_VirtLPL	CT_PF_AVLPL2	N		Y	N	
+CT_PF_VLPL3	Virt LicPlate Serials	159	2	CT_PF_VirtLPL	CT_PF_AVLPL3	N		Y	N	
+CT_PF_WDC1	WeightDocumentLine	407	4	CT_PF_WeightDocument	CT_PF_AWDC1	N		Y	N	
+CT_PF_WRG1	Work Registration: Man. Orders	223	2	CT_PF_WorkReg	CT_PF_AWRG1	N		Y	N	
+CT_PF_WRG2	Work Registration: Employees	221	2	CT_PF_WorkReg	CT_PF_AWRG2	N		Y	N	
+CT_SEVT	AE Events tmp	477	0			N		Y	N	
+CT_WMS_CONFIG	WMS Configuration	438	0			N		Y	N	
+CT_WMS_INC1	WMS Inventory Counting Line	611	5			N		Y	N	
+CT_WMS_IRG1	Inventory Register Lines	439	2	CT_WMS_OIRG	ACT_WMS_IRG1	N		Y	N	
+CT_WMS_OCCT	WMS Custom Config Table	609	1	CT_WMS_OCCT	CT_WMS_ACCT	N		Y	N	
+CT_WMS_OCGN	Code Generator	440	0			N		Y	N	
+CT_WMS_OINC	WMS Inventory Counting Header	610	1	CT_WMS_OINC	ACT_WMS_OINC	N		Y	N	
+CT_WMS_OIRG	Inventory Register Header	441	1	CT_WMS_OIRG	ACT_WMS_OIRG	N		Y	N	
+CT_WMS_OPBX	Packaging boxes	615	1	CT_WMS_OPBX	ACT_WMS_OPBX	N		Y	N	
+CT_WMS_OPCR	Packaging rules	618	1	CT_WMS_OPCR	ACT_WMS_OPCR	N		Y	N	
+CT_WMS_OPKI	Packaging Instruction	616	1	CT_WMS_OPKI	ACT_WMS_OPKI	N		Y	N	
+CT_WMS_OSEM	Semaphor Header	442	0			N		Y	N	
+CT_WMS_OSTU	Storage Unit Header	443	1	CT_WMS_OSTU	ACT_WMS_OSTU	N		Y	N	
+CT_WMS_OVDA	Dispatch Control Header	444	1	CT_WMS_OVDA	ACT_WMS_OVDA	N		Y	N	
+CT_WMS_OWTT	WMS Workflow Template Table	612	1	CT_WMS_OWTT	CT_WMS_AWTT	N		Y	N	
+CT_WMS_PKI1	Packaging Instruction details	617	2	CT_WMS_OPKI	ACT_WMS_PKI1	N		Y	N	
+CT_WMS_SSCC	SSCC Definition	445	1	CT_WMS_SSCC	ACT_WMS_SSCC	N		Y	N	
+CT_WMS_STU1	Storage Unit Lines	446	2	CT_WMS_OSTU	ACT_WMS_STU1	N		Y	N	
+FORECAST_LEVELS	Sales Forecast Levels	643	0			N		Y	N	
+LOCATION_ADDRESS	Location Address Header	453	3	LOCATION_ADDRESS		N		Y	N	
+LOCATION_ADDRESS_L	Location Address Lines	454	4	LOCATION_ADDRESS		N		Y	N	
+MOR_PRIORIY	MOR Priority	455	0			N		Y	N	
+ORDER_HOLD_REASONS	Order Hold Reasons	467	0			N		Y	N	
+PRODUCT_FAMILY	Product Family Lookup	456	0			N		Y	N	
+RAW_MATERIALS_USAGE	Raw Materials Usage History	461	0			N		Y	N	
+SALES_FORECAST	Sales Forecast	470	0			N		Y	N	
+SALES_FORECASTS	Sales Forecasts	466	0			N		Y	N	
+SALES_HISTORY	Sales History	459	0			N		Y	N	
+SPHRE_ATH_BMD_IMLOG	Batch Master Import Log	476	0			N		Y	N	
+SPHRE_EXPORT_MAP	Sapphire - Export Map	474	0			N		Y	N	
+SPHRE_IMPORT_MAP	Sapphire - Import Map	475	0			N		Y	N	
+SPHRE_MTD_BAS	Sapphire - MTD BAS Data	640	0			N		Y	N	
+SPHRE_MTD_BAS1	Sapphire - MTD BAS Data Lines	641	0			N		Y	N	
+SPHRE_MTD_OBLG	Sapphire - MTD Obligations	463	3	SPHRE_MTD_OBLG	ASPHRE_MTD_OBLG	N		Y	N	
+SPHRE_MTD_OSET	Sapphire - MTD Settings	462	1	SPHRE_MTD_OSET	ASPHRE_MTD_OSET	N		Y	N	
+SPHRE_MTD_OVAT	Sapphire - MTD VAT Returns	464	3	SPHRE_MTD_OVAT	ASPHRE_MTD_OVAT	N		Y	N	
+SPHRE_MTD_SET1	Sapphire - MTD Settings Lines	471	2	SPHRE_MTD_OSET	ASPHRE_MTD_SET1	N		Y	N	
+SPHRE_MTD_SET2	Sapphire - MTD Settings Lines2	472	2	SPHRE_MTD_OSET	ASPHRE_MTD_SET2	N		Y	N	
+SPHRE_MTD_VAT1	Sapphire - MTD VAT Ret Lines	465	4	SPHRE_MTD_OVAT	ASPHRE_MTD_VAT1	N		Y	N	
+SPHRE_MTD_VAT4	Sapphire - MTD VAT Ret Docs	639	0			N		Y	N	
+SPHRE_QCT_LOG	Quality Control Test Log	415	0			N		Y	N	
+SPHRE_SETTINGS	Sapphire Settings	413	0			N		Y	N	
+SPHRE_WHSMAP	Warehouse Mapping	414	0			N		Y	N	
+USAGE_RPT_MONTHS	Usage Report Months	460	0			N		Y	N	
+V33_FILEUPLOADS	File Uploads	693	0			N		Y	N	
+V33_MENUCONFIG	Menu upgrade config	667	0			N		Y	N	
+V33_THUMBNAILS	Thumbnails	695	0			N		Y	N	
+V33_UPLOADFORMLOG	File Upload Log	694	0			N		Y	N	
+V33_WEBLOGINAUDIT	zed: Login Audit	655	0			N		Y	N	
+ZEDS_ADDEXPGRP	Add Expense Group	713	0			N		Y	N	
+ZEDS_ADDEXPGRPZONE	Add Expense Group Zone	714	0			N		Y	N	
+ZEDS_ADDEXPPROVIDER	Add Expense Providers	715	0			N		Y	N	
+ZEDS_ADDEXPPROVTYPE	Add Expense Provider Type	716	0			N		Y	N	
+ZEDS_ADDEXPRATE	Add Expense Rate	717	1			N		Y	N	
+ZEDS_ADDEXPRATEDTL	Add Expense Rate Details	718	2			N		Y	N	
+ZEDS_ADDEXPRATETYPE	Add Expense Rate Type	719	0			N		Y	N	
+ZEDS_ADDEXPZONE	Add Expense Zone	720	0			N		Y	N	
+ZEDS_ADDEXPZONERATE	Add Expense Zone Rate	721	0			N		Y	N	
+ZEDS_ADDEXPZONEREG	Add Expense Zone Regions	722	0			N		Y	N	
+ZEDS_ADDFIELDSCTX	Portal Add. Fields Context	685	0			N		Y	N	
+ZEDS_ADDFIELDSMETA	Portal Add Fields Meta	686	0			N		Y	N	
+ZEDS_ADDLFIELDS	CP Order Pad B1 Fields	707	0			N		Y	N	
+ZEDS_APPLOCALE	Portal Locale Definitions	662	0			N		Y	N	
+ZEDS_APPROVAL	Portal Approval Document	658	3			N		Y	N	
+ZEDS_APPROVALS	Portal Approval Records	659	4			N		Y	N	
+ZEDS_APPS	Vision33 Applications	654	0			N		Y	N	
+ZEDS_CATEGORIES	Portal Menu Categories	668	0			N		Y	N	
+ZEDS_CCAUTHLOG	Vision33 Credit Card Auth Log	705	0			N		Y	N	
+ZEDS_CCPREAUTH	CCPreAuth Transaction	735	0			N		Y	N	
+ZEDS_CONNECTIONS	zed: Integration Connections	653	0			N		Y	N	
+ZEDS_CPORDERPADUDFS	CP Order Pad UDFs	664	0			N		Y	N	
+ZEDS_DASHBOARD	Portal Dashboards	674	0			N		Y	N	
+ZEDS_DASHBOARDROLES	Dashboard Roles	700	0			N		Y	N	
+ZEDS_DBLAYOUTS	Dashboard Layouts	701	0			N		Y	N	
+ZEDS_DBWIDGETS	Dashboard Widgets	702	0			N		Y	N	
+ZEDS_DBWIDGETTYPES	Dashboard Widget Types	703	0			N		Y	N	
+ZEDS_EPORDERPADUDFS	EP Order Pad UDFs	665	0			N		Y	N	
+ZEDS_EXPAVAILUDFS	Expense Available UDFs	736	0			N		Y	N	
+ZEDS_EXPCATEGORY	Expense Category	755	0			N		Y	N	
+ZEDS_EXPCCIMPORT	Credit Card Import Header	753	0			N		Y	N	
+ZEDS_EXPCCIMPRTLIN	Credit Card Import Lines	754	0			N		Y	N	
+ZEDS_EXPENSE_UDFS	Expense Type UDF Config	737	0			N		Y	N	
+ZEDS_EXPFORMATT	Expense Form Attachments	740	4			N		Y	N	
+ZEDS_EXPFORMATTLINE	Expense Form Attach to Line	741	4			N		Y	N	
+ZEDS_EXPFORMCCLINES	Expense Form CC Line to Line	742	4			N		Y	N	
+ZEDS_EXPFORMGLALLOC	Expense Claim GL Allocation	743	4			N		Y	N	
+ZEDS_EXPFORMHEADER	Expense Form Header	738	3			N		Y	N	
+ZEDS_EXPFORMLINES	Expense Form Detail	739	4			N		Y	N	
+ZEDS_EXPPAIDBY	Expense Paid By	744	0			N		Y	N	
+ZEDS_EXPREQATT	Expense Request Attachments	745	4			N		Y	N	
+ZEDS_EXPREQATTLINE	Expense Request Attach Line	746	4			N		Y	N	
+ZEDS_EXPREQGLALLOC	Expense Request GL Allocation	749	4			N		Y	N	
+ZEDS_EXPREQHEADER	Expense Request Header	747	3			N		Y	N	
+ZEDS_EXPREQLINES	Expense Request Detail	748	4			N		Y	N	
+ZEDS_EXPSTATUS	Expense Status	750	0			N		Y	N	
+ZEDS_EXPTYPE	Expense Type	751	0			N		Y	N	
+ZEDS_EXPTYPEVALUES	Expense Type Values	752	0			N		Y	N	
+ZEDS_EXPUSERCONFIG	Expense User Configuration	756	0			N		Y	N	
+ZEDS_EXPUSERSEGDIM	Expense User Seg/Dim	757	0			N		Y	N	
+ZEDS_ICONS	Portal Menu2 Icons	691	0			N		Y	N	
+ZEDS_KPI_TARGETS	Portal Dashboard KPI Targets	704	0			N		Y	N	
+ZEDS_LOCALES	Portal Locales	663	0			N		Y	N	
+ZEDS_MENU	Portal Menu2	688	0			N		Y	N	
+ZEDS_MENUENTRY	Portal Menu2 Entry	690	0			N		Y	N	
+ZEDS_MENUMASTER	Portal Menu	669	0			N		Y	N	
+ZEDS_MENUTYPE	Portal Menu2 Type	689	0			N		Y	N	
+ZEDS_NAMEDLAYOUTS	Portal Saved Menu Layouts	680	0			N		Y	N	
+ZEDS_OBJECTMETA	Portal Base Fields Meta	661	0			N		Y	N	
+ZEDS_OPPMAN_GRIDS	Vision33 OppMan Saved Grids	697	0			N		Y	N	
+ZEDS_OPPMAN_UDFS	Vision33 CRM UDF Manager	696	0			N		Y	N	
+ZEDS_OPRPIPELINES	Pipelines	699	0			N		Y	N	
+ZEDS_PARENTSMENU	Portal Parent Menu	671	0			N		Y	N	
+ZEDS_PINNEDLINKS	Portal Pinned Links	692	0			N		Y	N	
+ZEDS_PORCOLDET	Portal Collection Details	727	2			N		Y	N	
+ZEDS_PORCOLFILT	Portal Collection Filters	728	2			N		Y	N	
+ZEDS_PORCOLL	Portal Collections	729	1			N		Y	N	
+ZEDS_PORCOLPROD	Portal Collection Products	730	2			N		Y	N	
+ZEDS_PORCOLSTORE	Portal Collection Store Fronts	731	2			N		Y	N	
+ZEDS_PORTAL_ATTACH	Vision33 Attachment Details	698	0			N		Y	N	
+ZEDS_PORTAL_CONFIG	zed: Portal Configuration	657	0			N		Y	N	
+ZEDS_PUSHEVENTS	Portal Push Events	660	0			N		Y	N	
+ZEDS_PWREUSE	IC Password Reuse Validation	666	0			N		Y	N	
+ZEDS_QUERYLINK	Portal Query Doc Link	679	0			N		Y	N	
+ZEDS_QUERYMASTER	Portal Query	670	0			N		Y	N	
+ZEDS_QUERYPARAM	Portal Query Param	672	0			N		Y	N	
+ZEDS_SSOTOKENS	Single Sign On Tokens	684	0			N		Y	N	
+ZEDS_UDT_SEQUENCER	zed: UDT Key Sequencer	656	0			N		Y	N	
+ZEDS_USERPARAMLISTS	Portal User Parameter Lists	681	0			N		Y	N	
+ZEDS_USERPARAMS	Portal User Parameters	682	0			N		Y	N	
+ZEDS_USERPARAMVAL	Portal User Parameters Values	683	0			N		Y	N	
+ZEDS_USERPREFS	Vision33 User Preferences	706	0			N		Y	N	
+ZEDS_USERROLEMTX	Portal UserRole Matrix	673	0			N		Y	N	
+ZEDS_USERROLES	Portal User Roles	676	0			N		Y	N	
+ZEDS_VALIDATEORDER	Vision33 Order Validation	687	0			N		Y	N	
+ZEDS_VARIANTS	Web product variants	734	0			N		Y	N	
+ZEDS_VARIANTTYPES	Variant types	732	0			N		Y	N	
+ZEDS_VARIANTWEBTMP	Variant Web Templates	733	0			N		Y	N	
+ZEDS_WEBITEMDETAILS	Web Item Details CP B2B	708	2			N		Y	N	
+ZEDS_WEBITEMS	Web Items for CP B2B	709	1			N		Y	N	
+ZEDS_WEBITEMTAGS	Web Item Tags	710	2			N		Y	N	
+ZEDS_WEBITEMVARS	Web Item Variants	711	2			N		Y	N	
+ZEDS_WEBSTORE	Portal Store Front B2B	723	1			N		Y	N	
+ZEDS_WEBSTORELABELS	Web Store Labels	712	2			N		Y	N	
+ZEDS_WEBSTOREPFLTR	Portal Store Front Prod Filter	725	2			N		Y	N	
+ZEDS_WEBSTOREPRE	Portal Webstore Design Presets	724	0			N		Y	N	
+ZEDS_WEBSTORETEMPLT	Portal Store Front Prod Templt	726	2			N		Y	N	
+ZEDS_WIDGETS	Portal Widgets	675	0			N		Y	N	
+ZEDS_XPATHBASE	Portal Parameter XPath Base	677	0			N		Y	N	
+ZEDS_XPATHPARAMS	Portal XPath Based Parameters	678	0			N		Y	N	
+Z_CON_CERTIFCT_RULE	QC Certificate Paramtr Rules	457	0			N		Y	N	
+Z_CON_DEPT_GLACC	Department GL Accounts	651	0			N		Y	N	
+Z_CON_DI_CODES	Di Preamble for labels	410	0			N		Y	N	
+Z_CON_IDOCS_GROUPS	iDocs Groups	648	0			N		Y	N	
+Z_CON_IDOCS_USER_H	iDocs Users H	649	1	iDocsUser		N		Y	N	
+Z_CON_IDOCS_USER_L	iDocs Users L	650	2	iDocsUser		N		Y	N	
+Z_CON_LEVEL1_REPORT	Level 1 Reporting	621	0			N		Y	N	
+Z_CON_LEVEL2_REPORT	Level 2 Reporting	622	0			N		Y	N	
+Z_CON_LEVEL3_REPORT	Level 3 Reporting	623	0			N		Y	N	
+Z_CON_LEVEL4_REPORT	Level 4 Reporting	624	0			N		Y	N	
+Z_CON_PACK_INSTRUCT	Packing Instructions	458	3	PACKING_INSTRUCTIONS		N		Y	N	
+Z_CON_REGIONS	Regions By Country	473	0			N		Y	N	
+Z_CON_ROD_AVG_BTNS	Average Buttons Per Rod	652	0			N		Y	N	
+Z_CON_SFYIELD	SF Yield Details	758	1	Z_CON_SFYIELD		N		Y	N	
+Z_CON_SF_RM_ALLOC	Semi-Finished RM Allocation	647	3	SF_RM_BATCH_ALLOC		N		Y	N	
+Z_SCRAP_RECEIPT	Scrap Receipt Items	451	3	SCRAP_RECEIPT	AZ_SCRAP_RECEIPT	N		Y	N	
+Z_SPHERE_AGE_TEST_S	Age test status	8	0			N		Y	N	
+Z_SPHERE_CERT	QC CERTIFICATION TYPE	9	0			N		Y	N	
+Z_SPHERE_COUNTRY	Item Country ID	11	0			N		Y	N	
+Z_SPHERE_DEFAULT_TE	Default Territory	14	0			N		Y	N	
+Z_SPHERE_DESIGN_D_M	Designated default market	16	0			N		Y	N	
+Z_SPHERE_ITEMGROUPI	Item Grouping	13	0			N		Y	N	
+Z_SPHERE_ITEMTYPE	Item Type	12	0			N		Y	N	
+Z_SPHERE_NOMINALWAT	Nominal water content	25	0			N		Y	N	
+Z_SPHERE_PARENTMOUL	Parent Mould	26	0			N		Y	N	
+Z_SPHERE_PARETO	Pareto Category	21	0			N		Y	N	
+Z_SPHERE_PHYSICAL_S	Physical state	22	0			N		Y	N	
+Z_SPHERE_PROD_CAT	Production Category	5	0			N		Y	N	
+Z_SPHERE_QC_USER	QC User Authorization	10	0			N		Y	N	
+Z_SPHERE_RANGEGROUP	Range Group Code	23	0			N		Y	N	
+Z_SPHERE_REG_STATUS	Regulatory status	15	0			N		Y	N	
+Z_SPHERE_SHELF_LIFE	Shelf Life	17	0			N		Y	N	
+Z_SPHERE_SIZECODE	Size Code	24	0			N		Y	N	
+Z_SPHERE_THICKNESS	Thickness	20	0			N		Y	N	
+Z_SPHRE_BUILDQA	Build - QA Raw Data		5			N		Y	N	
+Z_SPHRE_PROPERTY	Item Properties	2	0			N		Y	N	
+Z_SPHRE_SETTINGS	Additional settings	1	0			N		Y	N	
+Z_SPH_BREASON_H	Z_SPH_BREASON_H	447	1			N		Y	N	
+Z_SPH_BREASON_L	Z_SPH_BREASON_L	448	2			N		Y	N	
+Z_SPH_NUMBERS	LABEL PRINTING COPIES	412	0			N		Y	N	
+Z_SS_BOMROUTING	BOM Routing	411	0			N		Y	N	

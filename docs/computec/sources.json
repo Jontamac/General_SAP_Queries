@@ -1,0 +1,352 @@
+﻿{
+    "reviewed_on":  "2026-10-15",
+    "scope":  "Curated vendor references linked by the local product guides; not a full site mirror.",
+    "installed_versions":  {
+                               "source":  "User confirmation, 2026-10-15",
+                               "ProcessForce":  "10.0.20.15, Release 20 HF 2, 64-bit",
+                               "WMS":  "2.10.20.10",
+                               "PDC":  "3.10.18.2",
+                               "Labels":  "4.7.1.117",
+                               "AppEngine":  "2.10.11.5"
+                           },
+    "sources":  [
+                    {
+                        "title":  "CompuTec Learn",
+                        "url":  "https://learn.computec.one/",
+                        "referenced_in":  [
+                                              "README.md",
+                                              "README.md"
+                                          ]
+                    },
+                    {
+                        "title":  "3.0 introduction",
+                        "url":  "https://learn.computec.one/docs/appengine/",
+                        "referenced_in":  [
+                                              "appengine.md",
+                                              "appengine.md",
+                                              "README.md"
+                                          ]
+                    },
+                    {
+                        "title":  "AppEngine 2.0 documentation",
+                        "url":  "https://learn.computec.one/docs/appengine/2.0/",
+                        "referenced_in":  [
+                                              "appengine.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Instances",
+                        "url":  "https://learn.computec.one/docs/appengine/administrators-guide/configuration-and-administration/appengine-instances/",
+                        "referenced_in":  [
+                                              "appengine.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Background Processing",
+                        "url":  "https://learn.computec.one/docs/appengine/administrators-guide/configuration-and-administration/background-processing/",
+                        "referenced_in":  [
+                                              "appengine.md",
+                                              "appengine.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Requirements",
+                        "url":  "https://learn.computec.one/docs/appengine/administrators-guide/requirements/",
+                        "referenced_in":  [
+                                              "appengine.md",
+                                              "appengine.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Log files",
+                        "url":  "https://learn.computec.one/docs/appengine/log-files/",
+                        "referenced_in":  [
+                                              "appengine.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Labels introduction",
+                        "url":  "https://learn.computec.one/docs/labels/",
+                        "referenced_in":  [
+                                              "labels.md",
+                                              "README.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Labels plugin",
+                        "url":  "https://learn.computec.one/docs/labels/ct-labels-plugin/ct-label/",
+                        "referenced_in":  [
+                                              "labels.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Company configuration",
+                        "url":  "https://learn.computec.one/docs/labels/setup/configuration/company-installation-and-configuration/",
+                        "referenced_in":  [
+                                              "labels.md"
+                                          ]
+                    },
+                    {
+                        "title":  "general configuration",
+                        "url":  "https://learn.computec.one/docs/labels/setup/configuration/general-configuration/",
+                        "referenced_in":  [
+                                              "labels.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Processing logs",
+                        "url":  "https://learn.computec.one/docs/labels/setup/logs/",
+                        "referenced_in":  [
+                                              "labels.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Setup overview",
+                        "url":  "https://learn.computec.one/docs/labels/setup/overview/",
+                        "referenced_in":  [
+                                              "labels.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Requests",
+                        "url":  "https://learn.computec.one/docs/labels/setup/requests/review-requests/",
+                        "referenced_in":  [
+                                              "labels.md"
+                                          ]
+                    },
+                    {
+                        "title":  "PDC introduction",
+                        "url":  "https://learn.computec.one/docs/pdc/",
+                        "referenced_in":  [
+                                              "pdc.md",
+                                              "README.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Installation overview",
+                        "url":  "https://learn.computec.one/docs/pdc/administrator-guide/installation/overview/",
+                        "referenced_in":  [
+                                              "pdc.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Application setup",
+                        "url":  "https://learn.computec.one/docs/pdc/administrator-guide/setting-up-the-application/overview/",
+                        "referenced_in":  [
+                                              "pdc.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Downtime",
+                        "url":  "https://learn.computec.one/docs/pdc/user-guide/task-activities/downtime/",
+                        "referenced_in":  [
+                                              "pdc.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Task activities",
+                        "url":  "https://learn.computec.one/docs/pdc/user-guide/task-activities/overview/",
+                        "referenced_in":  [
+                                              "pdc.md",
+                                              "pdc.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Quick Time Booking",
+                        "url":  "https://learn.computec.one/docs/pdc/user-guide/task-activities/quick-time-booking/",
+                        "referenced_in":  [
+                                              "pdc.md"
+                                          ]
+                    },
+                    {
+                        "title":  "ProcessForce introduction",
+                        "url":  "https://learn.computec.one/docs/processforce/",
+                        "referenced_in":  [
+                                              "README.md"
+                                          ]
+                    },
+                    {
+                        "title":  "2.0 documentation",
+                        "url":  "https://learn.computec.one/docs/processforce/2.0/",
+                        "referenced_in":  [
+                                              "processforce.md",
+                                              "README.md"
+                                          ]
+                    },
+                    {
+                        "title":  "ProcessForce 2.0 release branch",
+                        "url":  "https://learn.computec.one/docs/processforce/2.0/releases/download/",
+                        "referenced_in":  [
+                                              "processforce.md",
+                                              "README.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Time-entry costing",
+                        "url":  "https://learn.computec.one/docs/processforce/2.0/user-guide/manufacturing/time-booking/computec-processforce-costing-for-time-entries/",
+                        "referenced_in":  [
+                                              "pdc.md",
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Time Bookings, 2.0",
+                        "url":  "https://learn.computec.one/docs/processforce/2.0/user-guide/manufacturing/time-booking/time-bookings/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "ProcessForce architecture",
+                        "url":  "https://learn.computec.one/docs/processforce/administrator-guide/computec-processforce-architecture/",
+                        "referenced_in":  [
+                                              "appengine.md",
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Item costing",
+                        "url":  "https://learn.computec.one/docs/processforce/user-guide/costing-material-and-resources/item-costing/overview/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "BOM",
+                        "url":  "https://learn.computec.one/docs/processforce/user-guide/formulations-and-bill-of-materials/bill-of-materials/overview/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Batch Traceability",
+                        "url":  "https://learn.computec.one/docs/processforce/user-guide/inventory/batch-control/batch-traceability/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "MOR statuses",
+                        "url":  "https://learn.computec.one/docs/processforce/user-guide/manufacturing/manufacturing-order/manufacturing-order-statuses/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "MOR creation",
+                        "url":  "https://learn.computec.one/docs/processforce/user-guide/manufacturing/manufacturing-order/overview/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Legacy MRP workflow",
+                        "url":  "https://learn.computec.one/docs/processforce/user-guide/mrp/overview",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Plant Maintenance",
+                        "url":  "https://learn.computec.one/docs/processforce/user-guide/plant-maintenance/overview/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Quality Control",
+                        "url":  "https://learn.computec.one/docs/processforce/user-guide/quality-control/overview/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "routings",
+                        "url":  "https://learn.computec.one/docs/processforce/user-guide/routings/overview/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Scheduling",
+                        "url":  "https://learn.computec.one/docs/processforce/user-guide/scheduling/overview/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    },
+                    {
+                        "title":  "WMS introduction",
+                        "url":  "https://learn.computec.one/docs/wms/",
+                        "referenced_in":  [
+                                              "wms.md"
+                                          ]
+                    },
+                    {
+                        "title":  "WMS installation",
+                        "url":  "https://learn.computec.one/docs/wms/administrator-guide/installation/overview/",
+                        "referenced_in":  [
+                                              "appengine.md",
+                                              "README.md",
+                                              "wms.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Managing UoM",
+                        "url":  "https://learn.computec.one/docs/wms/user-guide/managing-uom-in-computec-wms/",
+                        "referenced_in":  [
+                                              "wms.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Starting the client",
+                        "url":  "https://learn.computec.one/docs/wms/user-guide/starting/",
+                        "referenced_in":  [
+                                              "wms.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Storage Units",
+                        "url":  "https://learn.computec.one/docs/wms/user-guide/storage-units/overview/",
+                        "referenced_in":  [
+                                              "wms.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Delivery",
+                        "url":  "https://learn.computec.one/docs/wms/user-guide/transactions/delivery/overview/",
+                        "referenced_in":  [
+                                              "wms.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Pick Order",
+                        "url":  "https://learn.computec.one/docs/wms/user-guide/transactions/pick-order/overview/",
+                        "referenced_in":  [
+                                              "wms.md"
+                                          ]
+                    },
+                    {
+                        "title":  "Pick Receipt",
+                        "url":  "https://learn.computec.one/docs/wms/user-guide/transactions/pick-receipt/overview/",
+                        "referenced_in":  [
+                                              "wms.md"
+                                          ]
+                    },
+                    {
+                        "title":  "AppEngine 2.0 plugins",
+                        "url":  "https://learn.computec.one/pl/docs/appengine/2.0/releases/plugins/pdc/download/",
+                        "referenced_in":  [
+                                              "appengine.md",
+                                              "pdc.md",
+                                              "README.md"
+                                          ]
+                    },
+                    {
+                        "title":  "API example",
+                        "url":  "https://learn.computec.one/pl/docs/processforce/2.0/developer-guide/processforce-api/processforce-api-tutorial/example-7-create-time-bookings-document/",
+                        "referenced_in":  [
+                                              "processforce.md"
+                                          ]
+                    }
+                ]
+}

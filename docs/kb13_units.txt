@@ -1,0 +1,182 @@
+UoM Abs. Entry	UoM Code	UoM Name
+-1	Manual	Manual
+142	Pk 10	Pack 10
+143	Pk 50	Pack 50
+144	Pk 100	Pack 100
+145	Pk 500	Pack 500
+146	Pk 1000	Pack 1000
+147	Box	Box
+148	Roll	Roll
+149	Tray	Tray
+150	Rd	Rod
+151	100ml	100ml
+152	250ml	250ml
+153	500ml	500ml
+154	1000ml	1000ml
+155	1 L	1 L
+156	10L	10L
+157	25L	25L
+158	100L	100L
+159	200L	200L
+160	1L	1L
+161	2.5L	2.5L
+162	5L	5L
+163	g	g
+164	10g	10g
+165	100g	100g
+166	1000g	1000g
+167	5000g	5000g
+168	10000g	10000g
+169	25000g	25000g
+170	200000g	200000g
+171	250g	250g
+172	Pallet	Pallet
+173	Bulk Bag	Bulk Bag
+174	Drum	Drum
+175	Each	Each
+176	Grams	Grams
+177	ml	Millilitres
+178	Litres	Litres
+179	Bottle	Bottle
+180	500g	500g
+181	Cm	Centimeter
+182	Linear Meters	Linear Meters
+183	Linear Centimeters	Linear Centimeters
+184	1ltr Bottle	1ltr Bottle
+185	2ltr Bottle	2ltr Bottle
+186	5ltr Bottle	5ltr Bottle
+187	Kilo	Kilo
+188	Metres	Metres
+193	150865	150865
+194	VC005-20c	VC005-20c
+195	0.5L bottl	0.5L bottl
+196	2 kilo	2 kilo
+197	20 Kg	20 Kg
+198	20 kilo	20 kilo
+199	250 m roll	250 m roll
+200	50 m roll	50 m roll
+201	5kg bottle	5kg bottle
+202	bag 10	bag 10
+203	bag 1000	bag 1000
+204	bags 25	bags 25
+205	bottle 100	bottle 100
+206	Bottle 1000	Bottle 1000
+207	Bottle 10000	Bottle 10000
+208	bottle 10ml	bottle 10ml
+209	bottle 2000	bottle 2000
+210	bottle 2400	bottle 2400
+211	bottle 240ml	bottle 240ml
+212	Bottle 250	Bottle 250
+213	bottle 2500	bottle 2500
+214	bottle 30ml	bottle 30ml
+215	bottle 360ml	bottle 360ml
+216	bottle 375ml	bottle 375ml
+217	bottle 380ml	bottle 380ml
+218	bottle 4800	bottle 4800
+219	bottle 50	bottle 50
+220	bottle 500	bottle 500
+221	bottle 5000	bottle 5000
+222	box 100	box 100
+223	box 1000	box 1000
+224	box 120	box 120
+225	Box 1350	Box 1350
+226	Box 170	Box 170
+227	box 175	box 175
+228	Box 190	Box 190
+229	box 200	box 200
+230	Box 240	Box 240
+231	box 250	box 250
+232	Box 400	Box 400
+233	box 500	box 500
+234	Box 7500	Box 7500
+235	Box 800	Box 800
+236	Drum 20000	Drum 20000
+237	drum 200000	drum 200000
+238	each 0.002	each 0.002
+239	each 200	each 200
+240	each 500	each 500
+241	each 7370	each 7370
+242	hundred 100	hundred 100
+243	Jar 500	Jar 500
+244	KG	KG
+245	kilo 1000	kilo 1000
+246	kilo 2400	kilo 2400
+247	Litre 1010	Litre 1010
+248	litre 1000	litre 1000
+249	litre 1015	litre 1015
+250	litre 1051	litre 1051
+251	litre 1073	litre 1073
+252	litre 1092	litre 1092
+253	litre 1159	litre 1159
+254	litre 1302	litre 1302
+255	litre 917	litre 917
+256	litre 938	litre 938
+257	litre 962	litre 962
+258	litre 982	litre 982
+259	ml 1.26	ml 1.26
+260	pack 0	pack 0
+261	pack 10	pack 10
+262	pack 100	pack 100
+263	pack 1000	pack 1000
+264	pack 11	pack 11
+265	pack 1500	pack 1500
+266	pack of 2	pack  of 2
+267	pack 20	pack 20
+268	pack 250	pack 250
+269	pack 3	pack 3
+270	pack 50	pack 50
+271	pack 500	pack 500
+272	Roll 22	Roll 22
+273	Ten Thousand 10000	Ten Thousand 10000
+274	Thousand 1000	Thousand 1000
+275	tub 100	tub 100
+276	Tub 1000	Tub 1000
+277	tub 125	tub 125
+278	bag 500	bag 500
+279	Roll 25	Roll 25
+280	PEP	PEP
+281	100 Bag	100 Bag
+282	500 Bag	500 Bag
+283	Fitting Set	Fitting Set
+284	5Kg	5Kg
+285	10kg	10Kg
+286	25Kg	25Kg
+287	1Kg	1Kg
+288	2Kg	2Kg
+289	500g Tub	500g Tub
+290	Tub 500g	Tub 500g
+291	Tub 250g	Tub 250g
+292	Tub 1Kg	Tub 1Kg
+293	Tub 5Kg	Tub 5Kg
+294	Test	Test
+295	Box 162	Box 162
+296	Box 270	Box 270
+297	Box 208	Box 208
+298	Tray 208	Tray 208
+299	Tray 186	Tray 186
+300	PACK1000	PACK1000
+301	Tub 10Kg	Tub 10Kg
+302	Sample	Sample
+303	Replacement	Replacement
+304	Marketing	Marketing
+305	GPLI	GPLI
+306	FOC Contract	Contract (FOC)
+307	Pack3	Pack 3
+308	0.5g	0.5g
+309	100g pot	100g pot
+310	10g pack	10g pack
+311	2 ltr bottle	2 ltr bottle
+312	500ml bottle	500ml bottle
+313	10 ltr box	10 ltr box
+314	1000g tub	1000g tub
+315	2.5 ltr bottle	2.5 ltr bottle
+316	25 ltr drum	25 ltr drum
+317	2500g tub	2500g tub
+318	5000g tub	5000g tub
+319	2.5 ltr bottle (IPA)	2.5 ltr bottle (IPA)
+320	Pack2	Pack 2
+321	Pack 2	Pack of 2
+322	Tender	Tender
+323	Contract Price	Contract Price
+324	25ml Bottle	25ml Bottle
+325	Pack4	Pack 4

@@ -1,0 +1,752 @@
+Table Name	Description	
+BATCH_HISTORY	BATCH History Data	
+BFEXTDBVERSION	Extension DB versions	
+BOY_40_CONFIG	Validation System	
+BOY_40_CONFIGLINES	Validation System Lines	
+BOY_41_FUNCTIONS	Universal Functions	
+BOY_41_FUNC_L01	Universal Function - Line 01	
+BOY_41_FUNC_L02	Universal Function - Line 02	
+BOY_41_FUNC_L03	Universal Function - Line 03	
+BOY_41_FUNC_L04	Universal Function - Line 04	
+BOY_41_FUNC_L05	Universal Function - Line 05	
+BOY_41_FUNC_L06	Universal Function - Line 06	
+BOY_41_FUNC_L07	Universal Function - Line 07	
+BOY_41_FUNC_L08	Universal Function - Line 08	
+BOY_41_FUNC_L09	Universal Function - Line 09	
+BOY_41_FUNC_L10	Universal Function - Line 10	
+BOY_41_UFBATCHES	UF Batch	
+BOY_41_UFSCHEDULES	UF Schedules	
+BOY_60_ANM	Add New Menus Table	
+BOY_60_EEM	Edit Existing Menus Table	
+BOY_61_TABCONTROL	TabControl	
+BOY_81_CONDITION	B1UP Manager: Conditions	
+BOY_81_DMSH	Schedule Header	
+BOY_81_DMSP	Schedule Properties	
+BOY_81_DMSU	Schedule Udfs	
+BOY_81_FORMTYPES	B1UP Manager: FormTypes	
+BOY_85_ACTION	B1Print: ReportActions	
+BOY_85_ACTION_L01	B1Print: ReportActions Line 01	
+BOY_85_ACTION_L02	B1Print: ReportActions Line 02	
+BOY_85_ACTION_L03	B1Print: ReportActions Line 03	
+BOY_85_ACTION_L04	B1Print: ReportActions Line 04	
+BOY_85_ACTION_L05	B1Print: ReportActions Line 05	
+BOY_85_ACTION_L06	B1Print: ReportActions Line 06	
+BOY_85_ACTION_L07	B1Print: ReportActions Line 07	
+BOY_85_ACTION_L08	B1Print: ReportActions Line 08	
+BOY_85_ACTION_L09	B1Print: ReportActions Line 09	
+BOY_85_ACTION_L10	B1Print: ReportActions Line 10	
+BOY_85_BASECONFIG	B1Print: BaseConfig	
+BOY_85_BP_SEL	B1Print: BP Selection	
+BOY_85_BP_SELORDER	B1Print: BP Selection Order	
+BOY_85_CUSTOMPRINT	B1Print: Custom Doc Print	
+BOY_85_DEL_LOG	Delivery Log	
+BOY_85_DYN_SYN	B1Print: Dynamic syntax	
+BOY_85_EMAIL_CAT	B1Print: Email Category	
+BOY_85_ERR_LOG	Error Log	
+BOY_85_EXCH_CONF	B1Print: Exchange Config	
+BOY_85_EXC_CRED	B1Print: Personal Exchange	
+BOY_85_REP_CATEGORY	B1Print: Category	
+BOY_85_REP_CONFIG	B1Print: Report Config	
+BOY_85_REP_CONFIGL	B1Print: Report Config Lines	
+BOY_85_REP_DEF	B1Print: Report Def.	
+BOY_85_REP_DEF_L	B1Print: Report Def. Param	
+BOY_85_REP_TYPE	B1Print: Type	
+BOY_85_SCHEDULES	B1Print: Schedules	
+BOY_85_SMTP_CONF	B1Print: SMTP Configuration	
+BOY_99_MBC	MultiButton	
+BOY_99_MBCL	MultiButton Line	
+BOY_A2_READONLY	Read Only Configurations	
+BOY_ACCOUNT_BANK	Account Balance Invoice table	
+BOY_B1UP_ADDDBINFO	B1UP: DB Info	
+BOY_B1UP_AUE	B1UP: Automatic update	
+BOY_B1UP_CATE	Config categories	
+BOY_B1UP_CATE_L01	Config categories - Line 01	
+BOY_B1UP_CATE_L02	Config categories - Line 02	
+BOY_B1UP_CATE_L03	Config categories - Line 03	
+BOY_B1UP_CATE_L04	Config categories - Line 04	
+BOY_B1UP_CATE_L05	Config categories - Line 05	
+BOY_B1UP_CATE_L06	Config categories - Line 06	
+BOY_B1UP_CATE_L07	Config categories - Line 07	
+BOY_B1UP_CATE_L08	Config categories - Line 08	
+BOY_B1UP_CATE_L09	Config categories - Line 09	
+BOY_B1UP_CATE_L10	Config categories - Line 10	
+BOY_B1UP_CONFIG	B1UP: Config	
+BOY_B1UP_DOTNETCODE	B1UP: DotNet code	
+BOY_B1UP_KANBAN	Kanban Board	
+BOY_B1UP_TRANSHEAD	B1UP: translation Header	
+BOY_B1UP_TRANSLINE	B1UP: translation Lines	
+BOY_B1UP_USERGROUP	B1UP: UserGroup	
+BOY_B1UP_USERGROUPL	B1UP: UserGroup Line	
+BOY_B1UP_WEBTCRE	WebClient Tile Creator	
+BOY_B1UP_WEBTCREL	WebClient Tile CreatorL	
+BOY_BUTTONSL	FunctionButtons Lines	
+BOY_BUTTONS_DL	Data launcher	
+BOY_BUTTONS_DLAF	Data Launcher Allo. Func	
+BOY_BUTTONS_DLF	Data Launcher Functions	
+BOY_BUTTONS_EX	FunctionButtons	
+BOY_E7_CALCONFIG	B1 Dashboard Calendar Config	
+BOY_E7_CALFILTER	B1 Dashboard Calendar Filter	
+BOY_E7_CALSOURCE	B1 Dashboard Calendar Source	
+BOY_E7_CONFIG	B1 Dashboard: Config	
+BOY_E7_DASHBOARD	B1 Dashboard: View	
+BOY_E7_DEFDEL	B1 Dashboard: Dashboard del.	
+BOY_E7_DEVDASH	B1 Dashboard: Dashboard	
+BOY_E7_MYUPDATES	My Recent Updates	
+BOY_E7_PFLOW	Process Flow	
+BOY_E7_PFLOWC	Process Flow Connector	
+BOY_E7_PFLOWE	Process Flow Entry	
+BOY_E7_SCHEDULES	B1 Dashboard: Schedules	
+BOY_E7_SERVSET	B1UP: Server setup	
+BOY_E7_USERSETTING	B1 Dashboard: User setting	
+BOY_E7_WIDGET	B1 Dashboard: Widgets	
+BOY_E7_WIDGETDATA	B1 Dashboard: Widget data	
+BOY_EXCHANGE_CONFIG	Exchange Rate Configuration	
+BOY_EXC_LOG	Exchange Rates ChangeLog	
+BOY_HELP_ENTRY	Help system entry	
+BOY_IPT	IPT: Header	
+BOY_IPT_CONFIG	IPT: Config	
+BOY_IPT_CUST	IPT: Custom Tabs	
+BOY_IPT_SQLR	IPT: SQL Reports	
+BOY_IPT_SYS	IPT: System Lines	
+BOY_IPT_UDF	IPT: UDF Lines	
+BOY_MANDATORY	Mandatory Fields: Header	
+BOY_MANDATORY_LINES	Mandatory Fields: Lines	
+BOY_PLUGINS	Boyum: Plugins	
+BOY_SBO_AVERSIONS	Boyum: Addon Versions	
+BOY_SBO_DBINFO	Boyum: DB Information	
+BOY_SBO_EULA	Boyum: EULA	
+BOY_SBO_EXTDATA	Boyum: Extended Data	
+BOY_SBO_EXTEVT	Boyum: External events	
+BOY_SBO_FEEDBACK	Boyum: Feedback	
+BOY_SBO_LASTVALUE	Boyum: Last Value Items	
+BOY_SBO_LICASSN	Boyum License Assn	
+BOY_SBO_LICCONF	Boyum License Conf	
+BOY_SBO_LICDATA	Boyum License Data	
+BOY_SBO_PARTNER	Boyum: Partner Information	
+BOY_SBO_QUERYCACHE	Boyum: Query converter	
+BOY_SBO_SCALOG	Boyum: Server Component Log	
+BOY_SBO_SCHEDULE	Boyum: Recurring Schedules	
+BOY_TOOLBOX_ACBC	Code Bp Config	
+BOY_TOOLBOX_ACIC	Code Imd Config	
+BOY_TOOLBOX_AW_EX	Auto Filter Exclude List	
+BOY_TOOLBOX_CONFIG	Toolbox Config	
+BOY_TOOLBOX_UDW	Toolbox UDW	
+BPCNTR	Payment Engine	
+BPRSTRT	Payment Engine	
+CON_COOP_BP_DETAILS	Co-op BP Details Table	
+CON_COOP_RULES	Co-op Rule Table	
+COOP_PRICING	Co-operative Pricing	
+COOP_STATEMENT_DATE	Co-Op Statement Date	
+COSHH_CAUTIONRATING	COSHH Caution Ratings	
+COSHH_HAZARD_GROUP	COSHH Hazard Group	
+CT_AE_OPRP	AE Properties	
+CT_AE_OWVS	AE Variants Sources	
+CT_AE_OWVT	AE Variants	
+CT_CW_OBTN	Catch Weight Batch Number	
+CT_CW_OBTR	Catch Weight Batch Transaction	
+CT_GEN_OUDO	CT_GEN_OUDO	
+CT_LP_CONF	Configuration	
+CT_LP_ETRG	Sets Event Triggers	
+CT_LP_PRMP	Maps parameters	
+CT_LP_RDCR	Report Document Custom Rules	
+CT_LP_RDOR	Report Document Rules	
+CT_LP_RPMP	Report Maps parameters	
+CT_LP_RQRY	Request Queries	
+CT_LP_TPLD	Template Definition	
+CT_LP_TPLR	Template Rules	
+CT_LP_TSTS	Name	
+CT_PC_OCCF	Costing Configuration	
+CT_PC_OCCT	Cost Category	
+CT_PC_OLGR	Labour Group	
+CT_PF_ABT1	Additional Batch: Properties	
+CT_PF_ABT6	Additional Batch: Attachments	
+CT_PF_ATR1	Opertion Time Rec Adj:Times	
+CT_PF_ATR2	Opertion Time Rec Adj:Empl.	
+CT_PF_ATR3	Opertion Time Rec Adj:Reasons	
+CT_PF_BCS1	BulkChange:BOMs	
+CT_PF_BCS11	BulkChange:FIProperties	
+CT_PF_BCS12	BulkChange:FTRoutings	
+CT_PF_BCS13	BulkChange:FTOperations	
+CT_PF_BCS14	BulkChange:FTResources	
+CT_PF_BCS15	BulkChange:FTItems	
+CT_PF_BCS2	BulkChange:Items	
+CT_PF_BCS3	BulkChange:Routings	
+CT_PF_BCS4	BulkChange:Operations	
+CT_PF_BCS5	BulkChange:Resources	
+CT_PF_BOM1	BOM: Items	
+CT_PF_BOM11	BOM: Routings	
+CT_PF_BOM12	BOM: Operations	
+CT_PF_BOM13	BOM: Operation Properties	
+CT_PF_BOM14	BOM: Operation IN&OUT	
+CT_PF_BOM15	BOM: IN&OUT properties	
+CT_PF_BOM16	BOM: Operation Resources	
+CT_PF_BOM17	BOM: Opr Res Properties	
+CT_PF_BOM20	BOM: Ope Relations	
+CT_PF_BOM3	BOM: CoProducts	
+CT_PF_BOM4	BOM: Scrap	
+CT_PF_BOM5	BOM: Phantoms	
+CT_PF_BOM7	BOM: Attachments	
+CT_PF_BSSC	Supplier Score Card	
+CT_PF_CAL1	Capacity Calendar: Resources	
+CT_PF_CAL2	Capacity Calendar: Periods	
+CT_PF_CBM1	Costed Bill of Mat.: Lines	
+CT_PF_CMP1	Costs Comparison: Batch Sizes	
+CT_PF_CONFIG	PF Configuration	
+CT_PF_CPL1	Complaint: Reasons	
+CT_PF_CPL2	Complaint: Batches	
+CT_PF_CPL3	Complaint: Serial Numbers	
+CT_PF_CPL4	Complaint: Attachments	
+CT_PF_CTL1	Cal. Templ.: Work. Hours	
+CT_PF_CTL2	Cal. Templ.: Work. Hours Ex.	
+CT_PF_CTL3	Cal. Templ.: Holidays	
+CT_PF_DDA1	Draft Doc. Auth.: Items Codes	
+CT_PF_DTM1	Down Time.:Reasons	
+CT_PF_ECL1	Emp. Cal.: Work. Hours	
+CT_PF_ECL2	Emp. Cal.: Work. Hours Ex.	
+CT_PF_ECL3	Emp. Cal.: Holidays	
+CT_PF_IDT1	Item Details: Revisions	
+CT_PF_IDT10	Item Details: Pack Sizes	
+CT_PF_IDT11	Item Det.Prop.: BussPart	
+CT_PF_IDT12	Item Details: Origins	
+CT_PF_IDT13	Item Details: Inventory Data	
+CT_PF_IDT2	Item Details: Attachments	
+CT_PF_IDT3	Item Details:Classification	
+CT_PF_IDT4	Item Details: Properties	
+CT_PF_IDT5	Item Details: Groups	
+CT_PF_IDT6	Item Details: Phrases	
+CT_PF_IDT7	Item Details: Texts	
+CT_PF_IDT8	Item Details: Allergens	
+CT_PF_IDT9	Item Details: Ingredients	
+CT_PF_IDV1	IDV: Ingredients	
+CT_PF_IFN1	Inspection Findings: Classes	
+CT_PF_IGT1	Igd. Template: Ingredients	
+CT_PF_IGT2	Igd. Template: Nutrients	
+CT_PF_IID1	Item Igd.: Ingredients	
+CT_PF_IID2	Item Igd.: Nutrients	
+CT_PF_IID3	Item Igd.: Allergens	
+CT_PF_IID4	Item Igd.: Classifications	
+CT_PF_IID5	Item Igd.: Certificates	
+CT_PF_IID6	Item Igd.: Specifications	
+CT_PF_IMD1	Ingredients: Allergens	
+CT_PF_IMD2	Ingredients: Classifications	
+CT_PF_IMD3	Ingredients: Certificates	
+CT_PF_IMD4	Ingredients: Specifications	
+CT_PF_IOP1	OperationInOut Property: Words	
+CT_PF_IPG1	Item Property Group: Subgroups	
+CT_PF_IPR1	Item Property: Words	
+CT_PF_IPR2	Item Property: BusPart	
+CT_PF_IRG1	Inventory Registry: Lines	
+CT_PF_ITC1	Item Costing: Costing Details	
+CT_PF_ITC2	Item Costing: CoProducts	
+CT_PF_ITC3	Item Costing: Scrap	
+CT_PF_ITC4	Item Costing: Rolled Cost	
+CT_PF_ITC5	Item Costing: Rolled Cost	
+CT_PF_ITC6	Item Costing: Overhead Costs	
+CT_PF_ITC7	Item Costing: Costed BOM Lines	
+CT_PF_LMD1	Location Master Data: Attr.	
+CT_PF_LOQ1	Location Queue: Locations	
+CT_PF_MFC1	Forecast: Rows	
+CT_PF_MIT1	Maintainable Item: Eff. Meters	
+CT_PF_MIT2	Maintainable Item: Attachments	
+CT_PF_MIT3	Maintainable Item: Activities	
+CT_PF_MIT4	Maintainable Item: Ins. Points	
+CT_PF_MIT5	Maintainable Item: Aspects	
+CT_PF_MIT6	Maintainable Item: Asp. Points	
+CT_PF_MIT7	Maintainable Item: Conditions	
+CT_PF_MLT1	Material List: Items	
+CT_PF_MOR1	MOR: Co-products	
+CT_PF_MOR12	MOR: Operations	
+CT_PF_MOR13	MOR: Operation Properties	
+CT_PF_MOR14	MOR: Operation IN&OUT	
+CT_PF_MOR15	MOR: IN&OUT properties	
+CT_PF_MOR16	MOR: Operation Resources	
+CT_PF_MOR17	MOR: Opr Res Properties	
+CT_PF_MOR18	MOR: OperationTimes	
+CT_PF_MOR19	MOR: Attachments	
+CT_PF_MOR2	MOR: Phantoms	
+CT_PF_MOR20	MOR: Op Relations	
+CT_PF_MOR3	MOR: Items	
+CT_PF_MOR4	MOR: Scrap	
+CT_PF_MOR6	MOR: Sales Orders	
+CT_PF_MOT1	Main. Order Temp.: Tasks	
+CT_PF_MOT10	Main. Order Temp.: Route Tools	
+CT_PF_MOT2	Main. Order Temp.: Checklist	
+CT_PF_MOT3	Main. Order Temp.: Materials	
+CT_PF_MOT4	Main. Order Temp.: Tools	
+CT_PF_MOT5	Main. Order Temp.: Attachments	
+CT_PF_MOT6	Main. Order Temp.: Templates	
+CT_PF_MOT7	Main. Order Temp.: Route Tasks	
+CT_PF_MOT8	Main. Order Temp.: R. Check.	
+CT_PF_MOT9	Main. Order Temp.: Route Mat.	
+CT_PF_MOW1	MOR Wizard Items	
+CT_PF_MOW11	MOR Wizard Sources	
+CT_PF_MOW2	MOR Wizard Orders	
+CT_PF_MOW22	MOR Wizard Rcms Links	
+CT_PF_MOW3	MOR Wizard Relations	
+CT_PF_MRC1	MRP:OrderRecLinks	
+CT_PF_MRD1	Meter Reading: Inheritences	
+CT_PF_MTR1	Main. Order: Tasks	
+CT_PF_MTR10	Main. Order: Route Check.	
+CT_PF_MTR11	Main. Order: Route Mat.	
+CT_PF_MTR12	Main. Order Temp.: Route Tools	
+CT_PF_MTR2	Main. Order: Checklist	
+CT_PF_MTR3	Main. Order: Materials	
+CT_PF_MTR4	Main. Order: Tools	
+CT_PF_MTR5	Main. Order: Attachments	
+CT_PF_MTR6	Main. Order: Activities	
+CT_PF_MTR7	Main. Order: Documents	
+CT_PF_MTR8	Main. Order: Route MOs	
+CT_PF_MTR9	Main. Order: Route Tasks	
+CT_PF_NTR1	NCMR Transaction: Defects	
+CT_PF_NTR2	NCMR Transaction: Reasons	
+CT_PF_NTR3	NCMR Transaction: Attachments	
+CT_PF_OABT	Additional Batch Details	
+CT_PF_OAJE	Additional Journal Entries	
+CT_PF_OALG	Allergen master data table	
+CT_PF_OAQL	Acceptance Quality Limit	
+CT_PF_OATR	Operation Time Rec Adj	
+CT_PF_OBCS	BulkChange:Scenario	
+CT_PF_OBLOB	Blob Objects	
+CT_PF_OBLT	BP Lead Time	
+CT_PF_OBOM	BOM	
+CT_PF_OBSE	Branch Default Series	
+CT_PF_OBTM	Batch Template	
+CT_PF_OCAL	Capacity Calendar	
+CT_PF_OCBCS	Costed BOM: Column Settings	
+CT_PF_OCBM	Costed Bill of Materials	
+CT_PF_OCCD	Closing Code	
+CT_PF_OCCT	Cost Category	
+CT_PF_OCGR	Complaint Group	
+CT_PF_OCLC	Columns Configuration	
+CT_PF_OCLS	Class	
+CT_PF_OCMP	Costs Comparison	
+CT_PF_OCPL	Complaint	
+CT_PF_OCRS	Complaint Reason	
+CT_PF_OCTG	Category	
+CT_PF_OCTL	Calendar Template	
+CT_PF_OCTR	Counter Schemes	
+CT_PF_OCVC	Vehicle Insp. Reasons	
+CT_PF_OCVI	Vehicle Inspection	
+CT_PF_OCVR	Vehicle Insp. Group	
+CT_PF_ODDA	Draft Document Authorization	
+CT_PF_ODEF	Defect	
+CT_PF_ODEG	Defect Group	
+CT_PF_ODTM	Down Time	
+CT_PF_ODTRG	Downtime Reason Groups	
+CT_PF_ODTRS	DownTimeReason	
+CT_PF_OECL	Employee Calendar	
+CT_PF_OEET	Expiry Date Eval Template	
+CT_PF_OEMT	Effective Meter Type	
+CT_PF_OFCT	Action Facts	
+CT_PF_OHCF	Help Config	
+CT_PF_OIAS	Inspection Aspects	
+CT_PF_OICG	Item Classification Group	
+CT_PF_OICH	ItemPrpCheckList	
+CT_PF_OICL	Item Classification	
+CT_PF_OICN	Inspection Conditions	
+CT_PF_OICS	Ingredient Classification	
+CT_PF_OICT	Ingredient Classification Type	
+CT_PF_OIDT	ItemDetails	
+CT_PF_OIDV	Ingredient Daily Value	
+CT_PF_OIFN	Inspection Findings	
+CT_PF_OIGC	Ingredients Category	
+CT_PF_OIGG	Item Group Grp	
+CT_PF_OIGR	Item Group	
+CT_PF_OIGT	Ingredient Template	
+CT_PF_OIHG	Item Phrases Grp	
+CT_PF_OIID	Item Ingredients Data	
+CT_PF_OILV	Inspection Level	
+CT_PF_OIMD	Ingredient master data	
+CT_PF_OIMT	Inspection Methods	
+CT_PF_OING	Inspector Group	
+CT_PF_OINN	NCMR Inspector	
+CT_PF_OINS	Inspector	
+CT_PF_OIOCH	InputOutputCheckList	
+CT_PF_OIOP	Properties For IO	
+CT_PF_OIPG	Item Property Group	
+CT_PF_OIPH	Item Phrases	
+CT_PF_OIPR	Item Property	
+CT_PF_OIPT	Inspection Point Types	
+CT_PF_OIRD	Inspection Reading	
+CT_PF_OIRG	Inventory Register	
+CT_PF_OITC	Item Costing	
+CT_PF_OITG	Item Text Grp	
+CT_PF_OITL	Item Location	
+CT_PF_OITX	Item Text	
+CT_PF_OIUL	Item Usable Location	
+CT_PF_OLAB	Label	
+CT_PF_OLAT	Location Attribute	
+CT_PF_OLAV	Location Availability	
+CT_PF_OLMD	Location Master Data	
+CT_PF_OLMR	MRP:Document_Link	
+CT_PF_OLOC	Location	
+CT_PF_OLOQ	Location Queue	
+CT_PF_OMAR	ManufacturingRelations	
+CT_PF_OMFC	Forecast	
+CT_PF_OMIP	MES Inspection Point	
+CT_PF_OMIT	Maintainable Item	
+CT_PF_OMLT	Material List	
+CT_PF_OMOR	MOR	
+CT_PF_OMOT	Maintenance Order Template	
+CT_PF_OMOW	MOR Wizard	
+CT_PF_OMRB	MRPBOMTree	
+CT_PF_OMRC	MRP:OrderRecomendation	
+CT_PF_OMRD	Meter Reading	
+CT_PF_OMSC	Man. Order Series Config.	
+CT_PF_OMTR	Maintenance Order	
+CT_PF_ONTR	NCMR Transaction	
+CT_PF_ONUT	Nutrient Master Data	
+CT_PF_OOCH	OperationCheckList	
+CT_PF_OOHT	Overhead Types	
+CT_PF_OOPR	Operation	
+CT_PF_OOTR	Operation Time Recording	
+CT_PF_OPDC	PDCSettings	
+CT_PF_OPDL	PDC Log	
+CT_PF_OPLR	Plate References	
+CT_PF_OPMS	PM Schedule	
+CT_PF_OPNO	Plan Normalization	
+CT_PF_OPOR	Pick Order	
+CT_PF_OPR1	Operation: Properties	
+CT_PF_OPR2	Operation: Resources	
+CT_PF_OPR3	Operation: Resources-Prop.	
+CT_PF_OPRD	Orderless Document	
+CT_PF_OPRE	Pick Receipt	
+CT_PF_OPRI	Priority	
+CT_PF_OPRO	Properties for Operations	
+CT_PF_OPRR	Properties for Resources	
+CT_PF_OPRT	Orderless Produdtion Template	
+CT_PF_OPVR	Preferred Vendors	
+CT_PF_OQCC	Counter	
+CT_PF_OQCP	QC Test Pool	
+CT_PF_OQCQ	QC Qualifications	
+CT_PF_OQCT	QC Test	
+CT_PF_OQLF	Qualification	
+CT_PF_OQPL	Quality Plans	
+CT_PF_ORAC	Resources Accounting	
+CT_PF_ORCH	ResourceCheckList	
+CT_PF_ORCL	Resource Calendar	
+CT_PF_ORCLH	Resource Calendar History	
+CT_PF_ORCM	Order Recommendation	
+CT_PF_ORCT	Resource Costing	
+CT_PF_OREV	Items Revision Helper	
+CT_PF_ORGR	Groups for Resources	
+CT_PF_ORNN	NCMR Reason	
+CT_PF_ORSC	Resource	
+CT_PF_ORSG	Reason Group	
+CT_PF_ORSH	Res. Cal. Stand. Hours	
+CT_PF_ORSN	Reason	
+CT_PF_ORTG	Routing	
+CT_PF_ORWRG	Rework Reason Groups	
+CT_PF_ORWRS	ReworkReason	
+CT_PF_OSCE	MRP:Scenario	
+CT_PF_OSCRG	Scrap Reason Groups	
+CT_PF_OSCRS	ScrapReason	
+CT_PF_OSHF	Shift	
+CT_PF_OSIT	Substitutes	
+CT_PF_OSTB	Sampling Table	
+CT_PF_OSTM	Serial Template	
+CT_PF_OTCG	Test Protocol Group	
+CT_PF_OTCH	Template Checkpoint	
+CT_PF_OTCL	Test Protocol	
+CT_PF_OTEM	Team	
+CT_PF_OTPG	Test Property Group	
+CT_PF_OTPR	Test Property	
+CT_PF_OTPT	Test Protocol Template	
+CT_PF_OTQY	Qty Registration	
+CT_PF_OTR1	Opertion Time Recording:Times	
+CT_PF_OTR2	Operation Time Rec.:Empl. Time	
+CT_PF_OTR3	Operation Time Rec.:Reasons	
+CT_PF_OTRD	Trade	
+CT_PF_OTRT	Time Reg Temp Entry	
+CT_PF_OTSK	Task	
+CT_PF_OTTM	TempTables	
+CT_PF_OUST	User Setting	
+CT_PF_OVLPL	VirtualLicensePlate	
+CT_PF_OWDC	WeightDocument	
+CT_PF_OWLG	WeightLog	
+CT_PF_OWRD	Wordbook	
+CT_PF_OWRG	Work Registration	
+CT_PF_PLR1	Plate Ref.: Required Items	
+CT_PF_PLR2	Plate Ref.: Picked Items	
+CT_PF_PLR3	Plate Ref.: Relations	
+CT_PF_PLR4	Plate Ref.: Used License Plate	
+CT_PF_PMS1	PM Schedule: Serviced MIs	
+CT_PF_PMS10	PM Schedule: Tools	
+CT_PF_PMS11	PM Schedule: Attachments	
+CT_PF_PMS2	PM Schedule: Tasks	
+CT_PF_PMS3	PM Schedule: Checklists	
+CT_PF_PMS4	PM Schedule: R. Templates	
+CT_PF_PMS5	PM Schedule: Route Tasks	
+CT_PF_PMS6	PM Schedule: R. Checklists	
+CT_PF_PMS7	PM Schedule: R. Materials	
+CT_PF_PMS8	PM Schedule: Route Tools	
+CT_PF_PMS9	PM Schedule: Materials	
+CT_PF_POR1	Pick Order: Required Items	
+CT_PF_POR2	Pick Order: Picked Items	
+CT_PF_POR3	Pick Order: Relations	
+CT_PF_POR5	Pick Order: Bins	
+CT_PF_PRD1	Orderless Document:Lines	
+CT_PF_PRE1	Pick Receipt: Required Items	
+CT_PF_PRE2	Pick Receipt: Picked Items	
+CT_PF_PRE3	Pick Receipt: Relations	
+CT_PF_PRE4	Pick Receipt: Bins	
+CT_PF_PRO1	Operation Property: Words	
+CT_PF_PRR1	Resources Property: Words	
+CT_PF_PRT1	Orderless Template:Lines	
+CT_PF_PVR1	Preferred Vendors: Rows	
+CT_PF_QCT1	QC Test: Test Results	
+CT_PF_QCT10	QC Test: It. Prop. BussPart	
+CT_PF_QCT11	QC Test: Res. BussPart	
+CT_PF_QCT2	QC Test: Batches	
+CT_PF_QCT3	QC Test: Serial Numbers	
+CT_PF_QCT4	QC Test: Defects	
+CT_PF_QCT5	QC Test: Resources	
+CT_PF_QCT6	QC Test: Items	
+CT_PF_QCT7	QC Test: Attachments	
+CT_PF_QCT8	QC Test: Item Properties	
+CT_PF_QCT9	QC Test: Multiple Test Res.	
+CT_PF_QPL1	Quality Plan: Lines	
+CT_PF_RAC1	Resources Acct: Accounts	
+CT_PF_RCL1	Rsc. Cal.: Work. Hours	
+CT_PF_RCL2	Rsc. Cal.: Work. Hours Ex.	
+CT_PF_RCL3	Rsc. Cal.: Holidays	
+CT_PF_RCT1	Resource Costing: Costs	
+CT_PF_RCT2	Resource Costing: Overhead Cst	
+CT_PF_RSC1	Resource: Properties	
+CT_PF_RSC2	Resource: Linked Tools	
+CT_PF_RSC3	Resource: Planning Inf.	
+CT_PF_RSC9	Resource: Attachments	
+CT_PF_RTG1	Routing: Operations	
+CT_PF_RTG2	Routing: Operations-Properties	
+CT_PF_RTG3	Routing: Operations-Resources	
+CT_PF_RTG4	Routing: Operations-Res.-Prop.	
+CT_PF_RTG5	Routing: Op Relations	
+CT_PF_SCE1	MRP:WhsInfo	
+CT_PF_SCE2	MRP:Restrictions	
+CT_PF_SCE3	MRP:Items	
+CT_PF_SCE31	MRP:VendorLeadTimes	
+CT_PF_SCE32	MRP:VendorInternalLeadTimes	
+CT_PF_SCE4	MRP:Forecasts	
+CT_PF_SCE7	MRP: Temp Item Data	
+CT_PF_SIT1	Substitutes: Items	
+CT_PF_SIT2	Substitutes: BOMs Conf.	
+CT_PF_SSC1	SSC: Attachments	
+CT_PF_TCH1	Temp. Checkpoint: Findings	
+CT_PF_TCH2	Temp. Checkpoint: Values	
+CT_PF_TCL10	Test Protocol: Quality Plans	
+CT_PF_TCL2	Test Protocol: Properties	
+CT_PF_TCL3	Test Protocol: Resources	
+CT_PF_TCL4	Test Protocol: Items	
+CT_PF_TCL5	Test Protocol: Attachments	
+CT_PF_TCL6	Test Protocol: Item Properties	
+CT_PF_TCL7	Test Prot. Item: BussPart	
+CT_PF_TCL8	Test Prot. Prop: BussPart	
+CT_PF_TCL9	Test Protocol: Freq. Rules	
+CT_PF_TEM1	Team: Members	
+CT_PF_TPR1	Test Property: Words	
+CT_PF_TPR2	Test Property: Words	
+CT_PF_TPT1	Test Pr. Template: Properties	
+CT_PF_TPT2	Test Pr. Template: BussPart	
+CT_PF_TRD1	Trade: Rates	
+CT_PF_TRD2	Trade: Qualifications	
+CT_PF_TRT1	Time Reg Temp:Lines	
+CT_PF_TRT2	Time Reg Temp:Materials	
+CT_PF_TSK1	Task: Checklist	
+CT_PF_TSK4	Task: Attachments	
+CT_PF_UHIS	Installation history	
+CT_PF_VLPL1	Virt LicPlate Items	
+CT_PF_VLPL2	Virt LicPlate Batches	
+CT_PF_VLPL3	Virt LicPlate Serials	
+CT_PF_WDC1	WeightDocumentLine	
+CT_PF_WRG1	Work Registration: Man. Orders	
+CT_PF_WRG2	Work Registration: Employees	
+CT_SEVT	AE Events tmp	
+CT_WMS_CONFIG	WMS Configuration	
+CT_WMS_INC1	WMS Inventory Counting Line	
+CT_WMS_IRG1	Inventory Register Lines	
+CT_WMS_OCCT	WMS Custom Config Table	
+CT_WMS_OCGN	Code Generator	
+CT_WMS_OINC	WMS Inventory Counting Header	
+CT_WMS_OIRG	Inventory Register Header	
+CT_WMS_OPBX	Packaging boxes	
+CT_WMS_OPCR	Packaging rules	
+CT_WMS_OPKI	Packaging Instruction	
+CT_WMS_OSEM	Semaphor Header	
+CT_WMS_OSTU	Storage Unit Header	
+CT_WMS_OVDA	Dispatch Control Header	
+CT_WMS_OWTT	WMS Workflow Template Table	
+CT_WMS_PKI1	Packaging Instruction details	
+CT_WMS_SSCC	SSCC Definition	
+CT_WMS_STU1	Storage Unit Lines	
+FORECAST_LEVELS	Sales Forecast Levels	
+LOCATION_ADDRESS	Location Address Header	
+LOCATION_ADDRESS_L	Location Address Lines	
+MOR_PRIORIY	MOR Priority	
+ORDER_HOLD_REASONS	Order Hold Reasons	
+PRODUCT_FAMILY	Product Family Lookup	
+RAW_MATERIALS_USAGE	Raw Materials Usage History	
+SALES_FORECAST	Sales Forecast	
+SALES_FORECASTS	Sales Forecasts	
+SALES_HISTORY	Sales History	
+SPHRE_ATH_BMD_IMLOG	Batch Master Import Log	
+SPHRE_EXPORT_MAP	Sapphire - Export Map	
+SPHRE_IMPORT_MAP	Sapphire - Import Map	
+SPHRE_MTD_BAS	Sapphire - MTD BAS Data	
+SPHRE_MTD_BAS1	Sapphire - MTD BAS Data Lines	
+SPHRE_MTD_OBLG	Sapphire - MTD Obligations	
+SPHRE_MTD_OSET	Sapphire - MTD Settings	
+SPHRE_MTD_OVAT	Sapphire - MTD VAT Returns	
+SPHRE_MTD_SET1	Sapphire - MTD Settings Lines	
+SPHRE_MTD_SET2	Sapphire - MTD Settings Lines2	
+SPHRE_MTD_VAT1	Sapphire - MTD VAT Ret Lines	
+SPHRE_MTD_VAT4	Sapphire - MTD VAT Ret Docs	
+SPHRE_QCT_LOG	Quality Control Test Log	
+SPHRE_SETTINGS	Sapphire Settings	
+SPHRE_WHSMAP	Warehouse Mapping	
+USAGE_RPT_MONTHS	Usage Report Months	
+V33_FILEUPLOADS	File Uploads	
+V33_MENUCONFIG	Menu upgrade config	
+V33_THUMBNAILS	Thumbnails	
+V33_UPLOADFORMLOG	File Upload Log	
+V33_WEBLOGINAUDIT	zed: Login Audit	
+ZEDS_ADDEXPGRP	Add Expense Group	
+ZEDS_ADDEXPGRPZONE	Add Expense Group Zone	
+ZEDS_ADDEXPPROVIDER	Add Expense Providers	
+ZEDS_ADDEXPPROVTYPE	Add Expense Provider Type	
+ZEDS_ADDEXPRATE	Add Expense Rate	
+ZEDS_ADDEXPRATEDTL	Add Expense Rate Details	
+ZEDS_ADDEXPRATETYPE	Add Expense Rate Type	
+ZEDS_ADDEXPZONE	Add Expense Zone	
+ZEDS_ADDEXPZONERATE	Add Expense Zone Rate	
+ZEDS_ADDEXPZONEREG	Add Expense Zone Regions	
+ZEDS_ADDFIELDSCTX	Portal Add. Fields Context	
+ZEDS_ADDFIELDSMETA	Portal Add Fields Meta	
+ZEDS_ADDLFIELDS	CP Order Pad B1 Fields	
+ZEDS_APPLOCALE	Portal Locale Definitions	
+ZEDS_APPROVAL	Portal Approval Document	
+ZEDS_APPROVALS	Portal Approval Records	
+ZEDS_APPS	Vision33 Applications	
+ZEDS_CATEGORIES	Portal Menu Categories	
+ZEDS_CCAUTHLOG	Vision33 Credit Card Auth Log	
+ZEDS_CCPREAUTH	CCPreAuth Transaction	
+ZEDS_CONNECTIONS	zed: Integration Connections	
+ZEDS_CPORDERPADUDFS	CP Order Pad UDFs	
+ZEDS_DASHBOARD	Portal Dashboards	
+ZEDS_DASHBOARDROLES	Dashboard Roles	
+ZEDS_DBLAYOUTS	Dashboard Layouts	
+ZEDS_DBWIDGETS	Dashboard Widgets	
+ZEDS_DBWIDGETTYPES	Dashboard Widget Types	
+ZEDS_EPORDERPADUDFS	EP Order Pad UDFs	
+ZEDS_EXPAVAILUDFS	Expense Available UDFs	
+ZEDS_EXPCATEGORY	Expense Category	
+ZEDS_EXPCCIMPORT	Credit Card Import Header	
+ZEDS_EXPCCIMPRTLIN	Credit Card Import Lines	
+ZEDS_EXPENSE_UDFS	Expense Type UDF Config	
+ZEDS_EXPFORMATT	Expense Form Attachments	
+ZEDS_EXPFORMATTLINE	Expense Form Attach to Line	
+ZEDS_EXPFORMCCLINES	Expense Form CC Line to Line	
+ZEDS_EXPFORMGLALLOC	Expense Claim GL Allocation	
+ZEDS_EXPFORMHEADER	Expense Form Header	
+ZEDS_EXPFORMLINES	Expense Form Detail	
+ZEDS_EXPPAIDBY	Expense Paid By	
+ZEDS_EXPREQATT	Expense Request Attachments	
+ZEDS_EXPREQATTLINE	Expense Request Attach Line	
+ZEDS_EXPREQGLALLOC	Expense Request GL Allocation	
+ZEDS_EXPREQHEADER	Expense Request Header	
+ZEDS_EXPREQLINES	Expense Request Detail	
+ZEDS_EXPSTATUS	Expense Status	
+ZEDS_EXPTYPE	Expense Type	
+ZEDS_EXPTYPEVALUES	Expense Type Values	
+ZEDS_EXPUSERCONFIG	Expense User Configuration	
+ZEDS_EXPUSERSEGDIM	Expense User Seg/Dim	
+ZEDS_ICONS	Portal Menu2 Icons	
+ZEDS_KPI_TARGETS	Portal Dashboard KPI Targets	
+ZEDS_LOCALES	Portal Locales	
+ZEDS_MENU	Portal Menu2	
+ZEDS_MENUENTRY	Portal Menu2 Entry	
+ZEDS_MENUMASTER	Portal Menu	
+ZEDS_MENUTYPE	Portal Menu2 Type	
+ZEDS_NAMEDLAYOUTS	Portal Saved Menu Layouts	
+ZEDS_OBJECTMETA	Portal Base Fields Meta	
+ZEDS_OPPMAN_GRIDS	Vision33 OppMan Saved Grids	
+ZEDS_OPPMAN_UDFS	Vision33 CRM UDF Manager	
+ZEDS_OPRPIPELINES	Pipelines	
+ZEDS_PARENTSMENU	Portal Parent Menu	
+ZEDS_PINNEDLINKS	Portal Pinned Links	
+ZEDS_PORCOLDET	Portal Collection Details	
+ZEDS_PORCOLFILT	Portal Collection Filters	
+ZEDS_PORCOLL	Portal Collections	
+ZEDS_PORCOLPROD	Portal Collection Products	
+ZEDS_PORCOLSTORE	Portal Collection Store Fronts	
+ZEDS_PORTAL_ATTACH	Vision33 Attachment Details	
+ZEDS_PORTAL_CONFIG	zed: Portal Configuration	
+ZEDS_PUSHEVENTS	Portal Push Events	
+ZEDS_PWREUSE	IC Password Reuse Validation	
+ZEDS_QUERYLINK	Portal Query Doc Link	
+ZEDS_QUERYMASTER	Portal Query	
+ZEDS_QUERYPARAM	Portal Query Param	
+ZEDS_SSOTOKENS	Single Sign On Tokens	
+ZEDS_UDT_SEQUENCER	zed: UDT Key Sequencer	
+ZEDS_USERPARAMLISTS	Portal User Parameter Lists	
+ZEDS_USERPARAMS	Portal User Parameters	
+ZEDS_USERPARAMVAL	Portal User Parameters Values	
+ZEDS_USERPREFS	Vision33 User Preferences	
+ZEDS_USERROLEMTX	Portal UserRole Matrix	
+ZEDS_USERROLES	Portal User Roles	
+ZEDS_VALIDATEORDER	Vision33 Order Validation	
+ZEDS_VARIANTS	Web product variants	
+ZEDS_VARIANTTYPES	Variant types	
+ZEDS_VARIANTWEBTMP	Variant Web Templates	
+ZEDS_WEBITEMDETAILS	Web Item Details CP B2B	
+ZEDS_WEBITEMS	Web Items for CP B2B	
+ZEDS_WEBITEMTAGS	Web Item Tags	
+ZEDS_WEBITEMVARS	Web Item Variants	
+ZEDS_WEBSTORE	Portal Store Front B2B	
+ZEDS_WEBSTORELABELS	Web Store Labels	
+ZEDS_WEBSTOREPFLTR	Portal Store Front Prod Filter	
+ZEDS_WEBSTOREPRE	Portal Webstore Design Presets	
+ZEDS_WEBSTORETEMPLT	Portal Store Front Prod Templt	
+ZEDS_WIDGETS	Portal Widgets	
+ZEDS_XPATHBASE	Portal Parameter XPath Base	
+ZEDS_XPATHPARAMS	Portal XPath Based Parameters	
+Z_CON_CERTIFCT_RULE	QC Certificate Paramtr Rules	
+Z_CON_DEPT_GLACC	Department GL Accounts	
+Z_CON_DI_CODES	Di Preamble for labels	
+Z_CON_IDOCS_GROUPS	iDocs Groups	
+Z_CON_IDOCS_USER_H	iDocs Users H	
+Z_CON_IDOCS_USER_L	iDocs Users L	
+Z_CON_LEVEL1_REPORT	Level 1 Reporting	
+Z_CON_LEVEL2_REPORT	Level 2 Reporting	
+Z_CON_LEVEL3_REPORT	Level 3 Reporting	
+Z_CON_LEVEL4_REPORT	Level 4 Reporting	
+Z_CON_PACK_INSTRUCT	Packing Instructions	
+Z_CON_REGIONS	Regions By Country	
+Z_CON_ROD_AVG_BTNS	Average Buttons Per Rod	
+Z_CON_SFYIELD	SF Yield Details	
+Z_CON_SF_RM_ALLOC	Semi-Finished RM Allocation	
+Z_SCRAP_RECEIPT	Scrap Receipt Items	
+Z_SPHERE_AGE_TEST_S	Age test status	
+Z_SPHERE_CERT	QC CERTIFICATION TYPE	
+Z_SPHERE_COUNTRY	Item Country ID	
+Z_SPHERE_DEFAULT_TE	Default Territory	
+Z_SPHERE_DESIGN_D_M	Designated default market	
+Z_SPHERE_ITEMGROUPI	Item Grouping	
+Z_SPHERE_ITEMTYPE	Item Type	
+Z_SPHERE_NOMINALWAT	Nominal water content	
+Z_SPHERE_PARENTMOUL	Parent Mould	
+Z_SPHERE_PARETO	Pareto Category	
+Z_SPHERE_PHYSICAL_S	Physical state	
+Z_SPHERE_PROD_CAT	Production Category	
+Z_SPHERE_QC_USER	QC User Authorization	
+Z_SPHERE_RANGEGROUP	Range Group Code	
+Z_SPHERE_REG_STATUS	Regulatory status	
+Z_SPHERE_SHELF_LIFE	Shelf Life	
+Z_SPHERE_SIZECODE	Size Code	
+Z_SPHERE_THICKNESS	Thickness	
+Z_SPHRE_BUILDQA	Build - QA Raw Data	
+Z_SPHRE_PROPERTY	Item Properties	
+Z_SPHRE_SETTINGS	Additional settings	
+Z_SPH_BREASON_H	Z_SPH_BREASON_H	
+Z_SPH_BREASON_L	Z_SPH_BREASON_L	
+Z_SPH_NUMBERS	LABEL PRINTING COPIES	
+Z_SS_BOMROUTING	BOM Routing	
